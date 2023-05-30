@@ -1,0 +1,2863 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-29">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="nom" type="string" />
+      <attribute id="1" title="prenom" type="double" />
+      <attribute id="2" title="f_m" type="string" />
+      <attribute id="3" title="nom_1" type="string" />
+      <attribute id="4" title="nom_2" type="double" />
+      <attribute id="5" title="nom_3" type="double" />
+      <attribute id="6" title="nom_4" type="double" />
+      <attribute id="7" title="civilite" type="string" />
+      <attribute id="8" title="rang_social" type="double" />
+      <attribute id="9" title="remarques" type="string" />
+      <attribute id="10" title="profession" type="double" />
+      <attribute id="11" title="residence" type="double" />
+    </attributes>
+    <nodes>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="Professeur Apt" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Apt" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Professeur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="Louise-Honorée-Françoise d'Aubonne" />
+          <attvalue for="1" value="Louise-Honorée-Françoise" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Aubonne" />
+          <attvalue for="4" value="d'Aulbonne" />
+          <attvalue for="5" value="Aulbonne" />
+          <attvalue for="6" value="d'Aubonne" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Louise-Honorée-Françoise de Saussure était le veuve d'Etienne d'Aubonne qu'elle avait épousé en 1754 et qui était mort en 1759. Elle se remarrie en 1767 avec Jonathan de Polier Saint-Germain, seigneur de Corcelles-le-Jorat, assesseur baillival de Lausanne" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="Paul d'Aubonne" />
+          <attvalue for="1" value="Paul" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Aubonne" />
+          <attvalue for="4" value="d'Aulbonne" />
+          <attvalue for="5" value="Aulbonne" />
+          <attvalue for="6" value="d'Aubonne" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="colonel" />
+          <attvalue for="9" value="cadet dans le régiment de Villars-Chandieu, colonel en 1760, maréchal de camp en 1770" />
+          <attvalue for="10" value="boursier (?), officier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="Béat-Sigmund Augsburger" />
+          <attvalue for="1" value="Béat-Sigmund" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Augsburger" />
+          <attvalue for="4" value="Augsbourgher" />
+          <attvalue for="5" value="Ougspurger" />
+          <attvalue for="6" value="Trésorier" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="trésorier romand" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="M. Beausobre" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Beausobre" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="bourgeoisie de Morges" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="Peter Beckford" />
+          <attvalue for="1" value="Peter" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Beckford" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="auteur" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="Mme. Bergier" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Bergier" />
+          <attvalue for="4" value="Berger" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Sébastien Bergier" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="Sébastien Bergier" />
+          <attvalue for="1" value="Sébastien" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Bergier" />
+          <attvalue for="4" value="Berger" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="propriétaire de Rovéréaz" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="major des baillages de Moudon et d'Avenches" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="0" value="Joseph-Samuel Bergier" />
+          <attvalue for="1" value="Joseph-Samuel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Bergier" />
+          <attvalue for="4" value="Berger" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="seigneur de Forel" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="capitaine" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="0" value="la Baillive Berset" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Berset" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de colonel Imbert-Louis Berset, bailli d'Avenches, ancien officier au service de Hollande" />
+          <attvalue for="10" value="baillive d'Avenches" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="0" value="Jean-Antoine Besson" />
+          <attvalue for="1" value="Jean-Antoine" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Besson" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="ministre" />
+          <attvalue for="9" value="épouse de Jean-Antoine Besson" />
+          <attvalue for="10" value="Archidiacre ou 3ème pasteur de Lausanne, professeur au Séminaire français" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="Mme. Besson" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Besson" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="0" value="M. Billon" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Billon" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="officier piémontois" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="0" value="Mme. Blackaer" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Blackaer" />
+          <attvalue for="4" value="Blaquière" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille de l'historien Rapin-Thoyras,épouse en secondes noces de Elie Blaquière" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="Elisabeth de Bon" />
+          <attvalue for="1" value="Elisabeth" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Bon" />
+          <attvalue for="4" value="de Bon" />
+          <attvalue for="5" value="Bons" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de François-Louis de Bon, née Elisabeth Loubier" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="Mlle. Bouillier" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Bouillier" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille d'un réfugié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="M. Bouquet" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Bouquet" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="officier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="Mlles. Bourgeois" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Bourgeois" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselles" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="2 filles de Monsieur Bourgeois" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="0" value="Mme. Bourgeois" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Bourgeois" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="Jacques-Justin Bourgeois" />
+          <attvalue for="1" value="Jacques-Justin" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Bourgeois" />
+          <attvalue for="4" value="le Banderet Bourgeois" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="administration de la ville" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="banneret" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="0" value="Pierre Bournet" />
+          <attvalue for="1" value="Pierre" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Bournet" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="ministre" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="Pasteur de la paroisse des Croisettes, puis de Lutry" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="Johannes Bürkli" />
+          <attvalue for="1" value="Johannes" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Bürkli" />
+          <attvalue for="4" value="Burchli" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Juge à Zurich, puis bailli de Rümlang et d'Erlenbach" />
+          <attvalue for="10" value="philantrope et poète" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="M. Byng" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Byng" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="Jean-Sabine de Cerjat" />
+          <attvalue for="1" value="Jean-Sabine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Cerjat" />
+          <attvalue for="4" value="de Cerjat" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="animatrice de la société de la rue de Bourg" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="M. Chaloner" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Chaloner" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="0" value="George Clarke" />
+          <attvalue for="1" value="George" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Clarke" />
+          <attvalue for="4" value="Clark" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="gentilhomme anglois" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="capitaine de vaisseau" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="0" value="Godfrey Bagnal Clarke" />
+          <attvalue for="1" value="Godfrey Bagnall" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Clarke" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="0" value="Mme. Clarke" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Clarke" />
+          <attvalue for="4" value="Clark" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="0" value="Mlle. Clarke" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Clarke" />
+          <attvalue for="4" value="Clark" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="fille du capitaine de vaisseau" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="Jacques-Abram-Elie-Daniel Clavel de Brenles" />
+          <attvalue for="1" value="Jacques-Abram-Elie-Daniel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Clavel de Brenles" />
+          <attvalue for="4" value="Brenles" />
+          <attvalue for="5" value="de Brenles" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="lieutenant baillival et professeur de droit à l'Académie" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="31" label="31">
+        <attvalues>
+          <attvalue for="0" value="Mme. Clavel de Brenles" />
+          <attvalue for="1" value="Etiennette" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Clavel de Brenles" />
+          <attvalue for="4" value="Brenles" />
+          <attvalue for="5" value="de Brenles" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jacques-Abram-Elie-Daniel Clavel de Brenles" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="Anne-Pauline Clavel de Marsens" />
+          <attvalue for="1" value="Anne-Pauline" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Clavel de Marsens" />
+          <attvalue for="4" value="de Marsan" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de César-Sigismond-François de Marsans" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="Juste Constant" />
+          <attvalue for="1" value="Juste" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Constant" />
+          <attvalue for="4" value="Contant de Rebecque" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="père de Benjamin Constant" />
+          <attvalue for="10" value="colonel au service de Hollande" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="0" value="David Constant d'Hermenches" />
+          <attvalue for="1" value="David" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Constant d'Hermenches" />
+          <attvalue for="4" value="d'Hermenches" />
+          <attvalue for="5" value="d'Hermanches" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="trésorier, grand ministre ?? , officier au service de Hollande, puis de France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="35" label="35">
+        <attvalues>
+          <attvalue for="0" value="Louise Constant d'Hermenches" />
+          <attvalue for="1" value="Louise " />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Constant d'Hermenches" />
+          <attvalue for="4" value="d'Hermenches" />
+          <attvalue for="5" value="d'Hermanches" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de David Constant d'Hermenches, née Louise de Seigneux" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="36" label="36">
+        <attvalues>
+          <attvalue for="0" value="Abraham de Crousaz" />
+          <attvalue for="1" value="Abraham" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz" />
+          <attvalue for="4" value="de Crousaz" />
+          <attvalue for="5" value="le Châtelain Crousaz" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="président de la cour de justice de Pully" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="37" label="37">
+        <attvalues>
+          <attvalue for="0" value="Frédéric de Crousaz" />
+          <attvalue for="1" value="Frédéric" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz" />
+          <attvalue for="4" value="de Crousaz" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="capitaine en France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="38" label="38">
+        <attvalues>
+          <attvalue for="0" value="Jean-Louis Crousaz" />
+          <attvalue for="1" value="Jean-Louis" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz" />
+          <attvalue for="4" value="le Gros Sautier de Crousaz" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="contrôleur des finances de la ville" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="39" label="39">
+        <attvalues>
+          <attvalue for="0" value="Catherine Crousaz" />
+          <attvalue for="1" value="Catherine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Crousaz" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille du général Pierre-François Crousaz de Corsier et soeur de Jean-Louis Crousaz" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="40" label="40">
+        <attvalues>
+          <attvalue for="0" value="Jeanne Crousaz" />
+          <attvalue for="1" value="Jeanne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Crousaz" />
+          <attvalue for="4" value="la juge de Crousaz" />
+          <attvalue for="5" value="la juge de Prelaz" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="née Jeanne d'Albenas, veuve du juge Jean-François-Louis de Crousaz, propriétaire du domaine de Prélaz, décédé en 1744" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="41" label="41">
+        <attvalues>
+          <attvalue for="0" value="Jean-Louis Crousaz de Corsier" />
+          <attvalue for="1" value="Jean-Louis" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz de Corsier" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="frère  de Catherine Crousaz" />
+          <attvalue for="10" value="officier au service de Hollande" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="0" value="Mlles. Crousaz de Corsier" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Crousaz de Corsier" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselles" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Filles d'Albert-Noé Crousaz, seigneur de Corsier : Pauline (1745), Jeanne-Marie, Angélique" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="43" label="43">
+        <attvalues>
+          <attvalue for="0" value="Pierre-Louis-Etienne Crousaz de Corsier" />
+          <attvalue for="1" value="Pierre-Louis-Etienne" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz de Corsier" />
+          <attvalue for="4" value="de Corsier" />
+          <attvalue for="5" value="Corsier" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fils d'Albert-Noé Crousaz et frère de Pauline, Jeanne-Marie et Angélique. A épousé en 1774 Philippine-Angélique de Gentils de Langallerie" />
+          <attvalue for="10" value="seigneur de Crousaz" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="0" value="Henri Crousaz de Mézery" />
+          <attvalue for="1" value="Henri" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz de Mézery" />
+          <attvalue for="4" value="Mesery" />
+          <attvalue for="5" value="de Mesery" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="seigneur de Mézery, directeur du manège" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="45" label="45">
+        <attvalues>
+          <attvalue for="0" value="Suzanne Crousaz de Mézery" />
+          <attvalue for="1" value="Suzanne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Crousaz de Mézery" />
+          <attvalue for="4" value="de Mesery" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Henriz Crousaz de Mézery, née Suzanne Bergier" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="46" label="46">
+        <attvalues>
+          <attvalue for="0" value="Rodolphe Crousaz de Mézery" />
+          <attvalue for="1" value="Rodolphe" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Crousaz de Mézery" />
+          <attvalue for="4" value="M. le controlleur de Mesery" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fils ainé de Benjamin Crousaz, seigneur de Mézery" />
+          <attvalue for="10" value="contrôleur général de la ville de Lausanne, maisonneur, architecte" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="47" label="47">
+        <attvalues>
+          <attvalue for="0" value="Jean-Jacob Curchod" />
+          <attvalue for="1" value="Jean-Jacob" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Curchod" />
+          <attvalue for="4" value="Capitaine Curchod" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="originiaire d'Echallens, bourgeois de Lausanne dès 1760, a acquis le château de Crisser des de Martines" />
+          <attvalue for="10" value="officier au service de la Sardaigne" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="0" value="Suzanne Curchod" />
+          <attvalue for="1" value="Suzanne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Curchod" />
+          <attvalue for="4" value="C." />
+          <attvalue for="5" value="la C." />
+          <attvalue for="6" value="la Belle, l'Etrangère, la Grande" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse en 1764 Jacques Necker, mère de Mme de Staël" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="Crassier" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="Anne-Catherine Curchod" />
+          <attvalue for="1" value="Anne-Catherine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Curchod" />
+          <attvalue for="4" value="la Capitaine Curchod" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jean-Jacob Curchod, née Anne-Catherine de Beausobre" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="50" label="50">
+        <attvalues>
+          <attvalue for="0" value="Baron d'Aire" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="d'Aire" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Baron" />
+          <attvalue for="8" value="baron" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="51" label="51">
+        <attvalues>
+          <attvalue for="0" value="Jean-François Dapples" />
+          <attvalue for="1" value="Jean-François" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Dapples" />
+          <attvalue for="4" value="d'Aplles" />
+          <attvalue for="5" value="d'Apples" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="a épousé Jeanne-Elisabeth Charrière de Penthaz" />
+          <attvalue for="10" value="professeur de grec et de morale à l'Académie" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="52" label="52">
+        <attvalues>
+          <attvalue for="0" value="Jeanne-Elisabeth Dapples" />
+          <attvalue for="1" value="Jeanne-Elisabeth" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Dapples" />
+          <attvalue for="4" value="d'Aplles" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="53" label="53">
+        <attvalues>
+          <attvalue for="0" value="Marie Dapples" />
+          <attvalue for="1" value="Marie" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Dapples" />
+          <attvalue for="4" value="la Docteuse d'Apples" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="née Marie Lemaire, épouse de Jean-Jacob Dapples, médecin" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="54" label="54">
+        <attvalues>
+          <attvalue for="0" value="Mme. d'Avenches" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="d'Avenches" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="baillive" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="55" label="55">
+        <attvalues>
+          <attvalue for="0" value="Charles-Esaïe de Chandieu" />
+          <attvalue for="1" value="Charles-Esaïe" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="de Chandieu " />
+          <attvalue for="4" value="de Chabot" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="cousin éloigné desChandieu de l'Isle, seigneur de la Chaux et d'Ittens" />
+          <attvalue for="10" value="officier au service de la France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="56" label="56">
+        <attvalues>
+          <attvalue for="0" value="Benjamin de Chandieu Villars" />
+          <attvalue for="1" value="Benjmain" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="de Chandieu Villars" />
+          <attvalue for="4" value="de Chandieu-Villars" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="2ème fils de Charles de Chandieu, seigneur de l'Isle, était, comme son père et son frère ainé, officier au service de la France" />
+          <attvalue for="10" value="offiicier au service de la France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="57" label="57">
+        <attvalues>
+          <attvalue for="0" value="Catherine de Chandieu Villars" />
+          <attvalue for="1" value="Catherine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="de Chandieu Villars" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Fille de Benjamin de Chandieu-Villars, épousa en 1766 Salomon de Charrière de Sévery." />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="58" label="58">
+        <attvalues>
+          <attvalue for="0" value="Marie de Chandieu Villars" />
+          <attvalue for="1" value="Marie" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="de Chandieu Villars" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Benjamin de Chandieu-Villars,née Marie de Montrond" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="59" label="59">
+        <attvalues>
+          <attvalue for="0" value="de Jouxtens" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="NaN" />
+          <attvalue for="3" value="de Jouxtens" />
+          <attvalue for="4" value="de Joutens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="NaN" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="60" label="60">
+        <attvalues>
+          <attvalue for="0" value="Chevalier de la Chebaudie" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="de la Chebaudie" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Chevalier" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="61" label="61">
+        <attvalues>
+          <attvalue for="0" value="Prince Charles-Joseph de Ligne" />
+          <attvalue for="1" value="Charles-Joseph" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="de Ligne" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Prince" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="62" label="62">
+        <attvalues>
+          <attvalue for="0" value="Etranger de Vevay" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="NaN" />
+          <attvalue for="3" value="de Vevay" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Etranger" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="63" label="63">
+        <attvalues>
+          <attvalue for="0" value="Rudolf-Anton Diesbach" />
+          <attvalue for="1" value="Rudolf-Anton" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Diesbach" />
+          <attvalue for="4" value="de Diesbach" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="officier au service de la France, puis titulaire du régiment de Diesbach, colonel en 1768, maréchal de camp en 1784" />
+          <attvalue for="10" value="officier au service de la France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="64" label="64">
+        <attvalues>
+          <attvalue for="0" value="Mmes du Bourg" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="du Bourg" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="dames" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="65" label="65">
+        <attvalues>
+          <attvalue for="0" value="Gabriel Dufour" />
+          <attvalue for="1" value="Gabriel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Dufour" />
+          <attvalue for="4" value="le ministre du Four" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="ministre, sous-diacre à Lausanne" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="66" label="66">
+        <attvalues>
+          <attvalue for="0" value="Dupleix" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="NaN" />
+          <attvalue for="3" value="Dupleix" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="NaN" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="0" value="M. Ernst" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Ernst" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="beau-frère du pasteur Pavillard" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="0" value="Béat-Rudolf Ernst" />
+          <attvalue for="1" value="Béat-Rudolf" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Ernst" />
+          <attvalue for="4" value="d'Ernst" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="officier bernois au service de la France, capitaine depuis 1760, colonel en 1782, maréchal de camp en 1788, dernier bailli de Romainmôtier" />
+          <attvalue for="10" value="officier au service de la France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="69" label="69">
+        <attvalues>
+          <attvalue for="0" value="Mme. Faure" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Faure" />
+          <attvalue for="4" value="de Faure" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié, épouse de M. Faure" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="0" value="M. Faure" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Faure" />
+          <attvalue for="4" value="de Faure" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="0" value="Mme. Fornerey" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Fornerey" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="0" value="Mmes. Fremont" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Fremont" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mesdames" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié " />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="73" label="73">
+        <attvalues>
+          <attvalue for="0" value="M. Frey" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Frey" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="précepteur" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="74" label="74">
+        <attvalues>
+          <attvalue for="0" value="Marguerite Gaudard" />
+          <attvalue for="1" value="Marguerite" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Gaudard" />
+          <attvalue for="4" value="de Betuzy" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="75" label="75">
+        <attvalues>
+          <attvalue for="0" value="Jean-Abraham-Rodolphe Gaulis" />
+          <attvalue for="1" value="Jean-Abraham-Rodolphe" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Gaulis" />
+          <attvalue for="4" value="Le secétaire ballival Gaulis" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="secrétaire ballival depuis 1739" />
+          <attvalue for="10" value="notaire, juré, secrétaire ballival" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="M. Gaytan" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Gaytan" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="violoniste" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="0" value="Philippe-François Gentils" />
+          <attvalue for="1" value="Philippe-François" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Gentils" />
+          <attvalue for="4" value="de Gentils" />
+          <attvalue for="5" value="le Marquis de Gentils" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="marquis de Langallerie, a épousé une de Constant-Rebecque, vit à Lausanne" />
+          <attvalue for="10" value="gouverneur (?), gentillhomme français, propriétaire de Mon-Repos" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="0" value="Angélique Gentils de Langallerie" />
+          <attvalue for="1" value="Angélique" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Gentils de Langallerie" />
+          <attvalue for="4" value="la Marquise de Gentils" />
+          <attvalue for="5" value="de Gentil" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Philippe-François Gentils, née Angélique de Constant-Rebecque" />
+          <attvalue for="10" value="Marquise" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="Edouard Gibbon" />
+          <attvalue for="1" value="Edouard" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Gibbon" />
+          <attvalue for="4" value="Gibon" />
+          <attvalue for="5" value="Gibbs" />
+          <attvalue for="6" value="Gibonne" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="Historien" />
+          <attvalue for="11" value="Pension Henry Crousaz de Mezery, rue de Bourg" />
+        </attvalues>
+      </node>
+      <node id="80" label="80">
+        <attvalues>
+          <attvalue for="0" value="Demoiselles Giron" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Giron" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Demoiselles" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="81" label="81">
+        <attvalues>
+          <attvalue for="0" value="Alexandre de Golowkin" />
+          <attvalue for="1" value="Alexandre" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Golowkin" />
+          <attvalue for="4" value="de Golowkin" />
+          <attvalue for="5" value="de Golofkin" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="comte" />
+          <attvalue for="9" value="fervent disciple de Rousseau" />
+          <attvalue for="10" value="comte, seigneur de Monnaz sur Morges" />
+          <attvalue for="11" value="terre de Monnaz au dessus de Morges" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="Wilhelmine de Golowkin" />
+          <attvalue for="1" value="Wilhelmine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Golowkin" />
+          <attvalue for="4" value="de Golowkin" />
+          <attvalue for="5" value="de Golofkin" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="comtesse" />
+          <attvalue for="9" value="épouse de Alexandre de Golowkin, née Wilhelmine de Mosheim" />
+          <attvalue for="10" value="comtesse" />
+          <attvalue for="11" value="Château de Mezery" />
+        </attvalues>
+      </node>
+      <node id="83" label="83">
+        <attvalues>
+          <attvalue for="0" value="Mme. de Goumoens" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Goumoens" />
+          <attvalue for="4" value="de Goumoens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Nicolas-Théodore de Goumoens, officier au service de la Hollandre" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="84" label="84">
+        <attvalues>
+          <attvalue for="0" value="La petite Grand" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="la petite Grand" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifiée" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="85" label="85">
+        <attvalues>
+          <attvalue for="0" value="Major George Grand" />
+          <attvalue for="1" value="George" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="le Major Grand" />
+          <attvalue for="5" value="Grand de St-Laurent" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Banquier à Lausanne, puis à Amsterdam dès 1771, major dans la milice vaudoise depuis 1760" />
+          <attvalue for="10" value="Banquier, major dans la milice vaudoise" />
+          <attvalue for="11" value="maison près de l'église St-Laurent" />
+        </attvalues>
+      </node>
+      <node id="86" label="86">
+        <attvalues>
+          <attvalue for="0" value="Anne-Catherine Grand" />
+          <attvalue for="1" value="Anne-Catherine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="Grand de St-Laurent" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de George Grand, née Anne-Catherine Lalouet" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="87" label="87">
+        <attvalues>
+          <attvalue for="0" value="Jacques Grand" />
+          <attvalue for="1" value="Jacques" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Banquier, né en 1716, décédé en 1764" />
+          <attvalue for="10" value="Banquier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="88" label="88">
+        <attvalues>
+          <attvalue for="0" value="Françoise-Elisabeth Grand" />
+          <attvalue for="1" value="Françoise-Elisabeth" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="Grand l'Angloise" />
+          <attvalue for="5" value="l'Angloise" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jacques Grand, née Françoise-Elisabeth Leclerc de Virly, décédée à Beverley (Yorkshire) en 1783" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="89" label="89">
+        <attvalues>
+          <attvalue for="0" value="Lisette Grand" />
+          <attvalue for="1" value="Lisette" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="l'une des trois filles de M. et Mme. George Grand" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="90" label="90">
+        <attvalues>
+          <attvalue for="0" value="Therese Grand" />
+          <attvalue for="1" value="Therese" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Grand" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="l'une des trois filles de M. et Mme. George Grand" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="91" label="91">
+        <attvalues>
+          <attvalue for="0" value="Marianne Grand" />
+          <attvalue for="1" value="Marianne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Grand l'Angloise" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="l'une des trois filles de M. et Mme. George Grand" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="92" label="92">
+        <attvalues>
+          <attvalue for="0" value="William Guise" />
+          <attvalue for="1" value="William" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Guise" />
+          <attvalue for="4" value="Geys" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fils de SirJohn Guise, Bart,, du Comté de Gloucester, W. Guise, plus tard Sir W. Guise, fut membre du Parlement et mourut en 1783" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="93" label="93">
+        <attvalues>
+          <attvalue for="0" value="Anne-Marie de Illens" />
+          <attvalue for="1" value="Anne-Marie" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Illens" />
+          <attvalue for="4" value="de Illens" />
+          <attvalue for="5" value="Nanette" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille aînée du conseiller Marc-Gérard de Illens, épousa le 13 mai 1764 Jacob van Berchem" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="maison à la Palud" />
+        </attvalues>
+      </node>
+      <node id="94" label="94">
+        <attvalues>
+          <attvalue for="0" value="Marc-Gérard de Illens" />
+          <attvalue for="1" value="Marc-Gérard" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Illens" />
+          <attvalue for="4" value="de Illens" />
+          <attvalue for="5" value="Conseiller d'Illens" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="membre du conseil des XXIV" />
+          <attvalue for="11" value="maison à la Palud" />
+        </attvalues>
+      </node>
+      <node id="95" label="95">
+        <attvalues>
+          <attvalue for="0" value="Henriette-Marianne de Illens" />
+          <attvalue for="1" value="Henriette-Marianne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Illens" />
+          <attvalue for="4" value="de Illens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Marc-Gérard de Illens, née Henriette-Marianne Roguin (1713-1768)" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="maison à la Palud" />
+        </attvalues>
+      </node>
+      <node id="96" label="96">
+        <attvalues>
+          <attvalue for="0" value="Marianne de Illens" />
+          <attvalue for="1" value="Marianne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Illens" />
+          <attvalue for="4" value="de Illens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="maison à la Palud" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="David Jenner" />
+          <attvalue for="1" value="David" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Jenner" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="1702-1790, bailli de Lausanne de 1763 à 1769" />
+          <attvalue for="10" value="officier au service de Hollande, bailli de Lausanne" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="98" label="98">
+        <attvalues>
+          <attvalue for="0" value="Jean Daniel Lemaire" />
+          <attvalue for="1" value="Jean Daniel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Lemaire" />
+          <attvalue for="4" value="le Maire" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsier" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="banneret de St-Laurent en 1763" />
+          <attvalue for="10" value="capitaine, banneret de St-Laurent" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="99" label="99">
+        <attvalues>
+          <attvalue for="0" value="Mme. Loubier" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Loubier" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifiée, peut-être une parente de Mme de Bons" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="100" label="100">
+        <attvalues>
+          <attvalue for="0" value="M. de Loys" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Loys" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="101" label="101">
+        <attvalues>
+          <attvalue for="0" value="Marie Loys de Bochat" />
+          <attvalue for="1" value="Marie" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Loys de Bochat" />
+          <attvalue for="4" value="de Bochat" />
+          <attvalue for="5" value="de Bocht" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="veuve de Charles Loys de Bochat, historien, professeur à l'Académie (1695-1754), née Marie Teysonnière" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="la Grotte" />
+        </attvalues>
+      </node>
+      <node id="102" label="102">
+        <attvalues>
+          <attvalue for="0" value="Charles Loys de Cheseaux" />
+          <attvalue for="1" value="Charles" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Loys de Cheseaux" />
+          <attvalue for="4" value="de Cheseaux" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fils cadet de Paul-Etienne Loys de Cheseaux, (1730-1789)" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="103" label="103">
+        <attvalues>
+          <attvalue for="0" value="Judith Loys de Cheseaux" />
+          <attvalue for="1" value="Judith" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Loys de Cheseaux" />
+          <attvalue for="4" value="de Cheseaux" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Paul-Etienne Loys de Cheseaux, née Judith de Crousaz, fille de Jean-Pierre de Crousaz, le philosophe" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="104" label="104">
+        <attvalues>
+          <attvalue for="0" value="Etienne-François-Louis Loys de Middes" />
+          <attvalue for="1" value="Etienne-François-Louis" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Loys de Middes" />
+          <attvalue for="4" value="de Middes" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="officier au service de la France" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="105" label="105">
+        <attvalues>
+          <attvalue for="0" value="Lisette Loys de Villardin" />
+          <attvalue for="1" value="Lisette" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Loys de Villardin" />
+          <attvalue for="4" value="de Villardin" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="106" label="106">
+        <attvalues>
+          <attvalue for="0" value="Edward Manners" />
+          <attvalue for="1" value="Edward" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Manners" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="107" label="107">
+        <attvalues>
+          <attvalue for="0" value="Daniel Miron" />
+          <attvalue for="1" value="Daniel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Miron" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="avocat français qui vint se fixer à Lausanne après un séjour en Hollande et acquit en 1736 un domaine sur le territoire de la commune de Jouxtens" />
+          <attvalue for="10" value="avocat" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="108" label="108">
+        <attvalues>
+          <attvalue for="0" value="Gabrielle Miron" />
+          <attvalue for="1" value="Gabrielle" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Miron" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Daniel Miron, née Gabrielle Monfroy" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="109" label="109">
+        <attvalues>
+          <attvalue for="0" value="Mlles. Miron" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Miron" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mesdemoiselles" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="filles de Daniel et Garielle Miron" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="110" label="110">
+        <attvalues>
+          <attvalue for="0" value="Jean de Montrond" />
+          <attvalue for="1" value="Jean" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Montrond" />
+          <attvalue for="4" value="de Montrond" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="mourut en 1816" />
+          <attvalue for="10" value="colonel au service de Hesse-Darmstadt, assesseur baillival" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="111" label="111">
+        <attvalues>
+          <attvalue for="0" value="Frédéric Moula" />
+          <attvalue for="1" value="Frédéric" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Moula" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="avait été professeur de mathématiques à Saint-Petersbourg et à Berlin et se retira à Neuchâtel (1703-1782)" />
+          <attvalue for="10" value="gouverneur (?), professeur de mathématiques" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="112" label="112">
+        <attvalues>
+          <attvalue for="0" value="Mount Stuart" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Mount Stuart" />
+          <attvalue for="4" value="Mylord Mount stuart" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Lord" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="113" label="113">
+        <attvalues>
+          <attvalue for="0" value="Jean-François Muller" />
+          <attvalue for="1" value="Jean-François" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Muller" />
+          <attvalue for="4" value="l'Assesseur Muller" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="seigneur de la Mothe, assesseur baillival à Lausanne" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="114" label="114">
+        <attvalues>
+          <attvalue for="0" value="Albert de Mullinen" />
+          <attvalue for="1" value="Albert" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Mullinen" />
+          <attvalue for="4" value="de Mullenen" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="1732-1807" />
+          <attvalue for="10" value="Bailli de Laupen, trésorier des pays de langue française" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="115" label="115">
+        <attvalues>
+          <attvalue for="0" value="Mme. de Mullinen" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Mullinen" />
+          <attvalue for="4" value="de Mullinen" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="116" label="116">
+        <attvalues>
+          <attvalue for="0" value="Mlles. de Murizet" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Murizet" />
+          <attvalue for="4" value="de Murizet" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Demoiselles" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="117" label="117">
+        <attvalues>
+          <attvalue for="0" value="Johm Murray" />
+          <attvalue for="1" value="John" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Murray" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="118" label="118">
+        <attvalues>
+          <attvalue for="0" value="Lord Palmerston" />
+          <attvalue for="1" value="Henry Temple" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Palmerston" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Lord" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="2ème vicomte Palmerston 1739-1802, fréquents voyages en Italie, père du célèbre homme d'Etat" />
+          <attvalue for="10" value="membre du Parlement" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="119" label="119">
+        <attvalues>
+          <attvalue for="0" value="Mme. Pavillard" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Pavillard" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="épouse de Daniel Pavillard, née Ernst" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="120" label="120">
+        <attvalues>
+          <attvalue for="0" value="Daniel Pavillard" />
+          <attvalue for="1" value="Daniel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Pavillard" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="1704-1775, pasteur à Lausanne de 1748 à 1765 puis principal au collège ou il enseigne latin et histoire ancienne. Gibbon fut en pension chez lui lors de son premier séjour" />
+          <attvalue for="10" value="pasteur, principal de collège, professeur de latin et d'histoire ancienne" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="121" label="121">
+        <attvalues>
+          <attvalue for="0" value="M. Piggot" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Piggot" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="122" label="122">
+        <attvalues>
+          <attvalue for="0" value="Georges-Louis Polier" />
+          <attvalue for="1" value="George-Louis" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Polier" />
+          <attvalue for="4" value="le Major Polier" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="officier au service de Hollande, puis de Prusse, 1718-1793" />
+          <attvalue for="10" value="officier au service de Hollande, puis de Prusse" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="123" label="123">
+        <attvalues>
+          <attvalue for="0" value="Jeanne-Françoise Polier" />
+          <attvalue for="1" value="Jeanne-Françoise" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Polier" />
+          <attvalue for="4" value="la capitaine Polier" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jacques-Henry-Etienne Polier de Chavannes, née Jeanne-Françoise Moreau de Brosses" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="124" label="124">
+        <attvalues>
+          <attvalue for="0" value="Jeanne Polier" />
+          <attvalue for="1" value="Jeanne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Polier" />
+          <attvalue for="4" value="l'aînée" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille de Jeanne-Françoise Polier, née en 1722" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="125" label="125">
+        <attvalues>
+          <attvalue for="0" value="Antoine-Noé Polier de Bottens" />
+          <attvalue for="1" value="Antoine-Noé" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Polier de Bottens" />
+          <attvalue for="4" value="Polier, Antoine Louis" />
+          <attvalue for="5" value="l'Indien" />
+          <attvalue for="6" value="Le Grand Ministre" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="pasteur à Lausanne de 1743 à 1783, année de sa mort" />
+          <attvalue for="10" value="Grand ministre, pasteur" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="126" label="126">
+        <attvalues>
+          <attvalue for="0" value="Antoinette-Elisabeth-Suzanne Polier de Bottens" />
+          <attvalue for="1" value="Antoinette-Elisabeth-Suzanne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Polier de Bottens" />
+          <attvalue for="4" value="Madame de Bottens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Antoine-Noé Polier de Bottens, née Antoinette-Elisabeth-Suzanne Lagier de Pluviannes" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="127" label="127">
+        <attvalues>
+          <attvalue for="0" value="Antoine Polier de Saint-Germain" />
+          <attvalue for="1" value="Antoine" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Polier de Saint-Germain" />
+          <attvalue for="4" value="de St-Germain" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="1705-1797, fut bourgmestre de 1766 à 1769" />
+          <attvalue for="10" value="banneret, conseiller" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="128" label="128">
+        <attvalues>
+          <attvalue for="0" value="Henriette-Françoise Polier de Saint-Germain" />
+          <attvalue for="1" value="Henriette-Françoise" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Polier de Saint-Germain" />
+          <attvalue for="4" value="de St-Germain" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Antoine Polier de Saint-Germain, née Henriette-Françoise de Chandieu" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="129" label="129">
+        <attvalues>
+          <attvalue for="0" value="Mme. Porta" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Porta" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="130" label="130">
+        <attvalues>
+          <attvalue for="0" value="Mme. Portaz" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Portaz" />
+          <attvalue for="4" value="la Colonelle Portaz" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jean-Antoine Portaz (1715-1766), née Louise-Marguerite Porta" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="131" label="131">
+        <attvalues>
+          <attvalue for="0" value="Mme. Portaz Stetler" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Portaz Stetler" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="132" label="132">
+        <attvalues>
+          <attvalue for="0" value="Major Ridley" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Ridley" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Major" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="major" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="133" label="133">
+        <attvalues>
+          <attvalue for="0" value="Catherine-Rose Roel" />
+          <attvalue for="1" value="Catherine-Rose" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Roel" />
+          <attvalue for="4" value="la Roel" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Guillaume Roel, née Catherine-Rose Secretan" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="134" label="134">
+        <attvalues>
+          <attvalue for="0" value="Guillaume Roel" />
+          <attvalue for="1" value="Guillaume" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Roel" />
+          <attvalue for="4" value="Hollandois" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="né à Utrecht en 1740,propriétaire de Renens sur Roche, mourut en 1801" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="Renens sur Roche" />
+        </attvalues>
+      </node>
+      <node id="135" label="135">
+        <attvalues>
+          <attvalue for="0" value="Mlle. Rosset" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Rosset" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="soeur de Pierre-Antoine-Louis Rosset" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="136" label="136">
+        <attvalues>
+          <attvalue for="0" value="Jean-Alphonse Rosset de Rocherfort" />
+          <attvalue for="1" value="Jean-Alphonse" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Rosset de Rochefort" />
+          <attvalue for="4" value="le professeur Rosset" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="professeur de théologie didactique de l'Académie" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="137" label="137">
+        <attvalues>
+          <attvalue for="0" value="Antoine-Emmanuel Rosset de Rochefort" />
+          <attvalue for="1" value="Antoine-Emmanuel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Rosset de Rochefort" />
+          <attvalue for="4" value="le Boursier" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="médecin de sa profession, 1703-1798, conseiller et boursier de 1704 à 1765, sa femme était née Anne-Marie-Sophie Franconi (1704-1776)" />
+          <attvalue for="10" value="médecin, conseiller, boursier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="138" label="138">
+        <attvalues>
+          <attvalue for="0" value="Mme. Salchli" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Salchli" />
+          <attvalue for="4" value="Sachli" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jean Salchli (1724-1808), professeur d'hébreu à l'Académie" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="139" label="139">
+        <attvalues>
+          <attvalue for="0" value="M. de Salis" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Salis" />
+          <attvalue for="4" value="de Salis" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="140" label="140">
+        <attvalues>
+          <attvalue for="0" value="Louis-André Saussure de Boussens" />
+          <attvalue for="1" value="Louis-André" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Saussure" />
+          <attvalue for="4" value="Saussure de Boussens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="officier au service d'Espage (1706-1777)" />
+          <attvalue for="10" value="officier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="141" label="141">
+        <attvalues>
+          <attvalue for="0" value="Benjamin de Saussure" />
+          <attvalue for="1" value="Benjamin" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Saussure" />
+          <attvalue for="4" value="de Vernand" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="seigneur de Vernand-dessus et de Boussens (1706-1784), père de Victor Saussure" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="142" label="142">
+        <attvalues>
+          <attvalue for="0" value="Victor-Benjamin de Saussure" />
+          <attvalue for="1" value="Victor-Benjamin" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Saussure" />
+          <attvalue for="4" value="de Saussure" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="Fils de Benjamin de Saussure, après avoir rempli diverses charges, dernier bourgmestre de Lausanne (1796-1798),1737-1811" />
+          <attvalue for="10" value="fonctionnaire" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="143" label="143">
+        <attvalues>
+          <attvalue for="0" value="Philippe-François Gentils de Saussure de Saint-Cierge" />
+          <attvalue for="1" value="Philippe-François-Jacques" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Saussure de Saint-Cierge" />
+          <attvalue for="4" value="de St-Cierge" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="baron de Bercher, seigneur de Bettens, officier au service de Hollande" />
+          <attvalue for="10" value="officier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="144" label="144">
+        <attvalues>
+          <attvalue for="0" value="Françoise-Madeleine de Saussure de Saint-Cierge" />
+          <attvalue for="1" value="Françoise-Madeleine" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Saussure de Saint-Cierge" />
+          <attvalue for="4" value="de St-Cierge" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Philippe-François-Jacques de Saussure de Saint-Cierge, née Françoise-Madeleine Bidaud du Lignon" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="145" label="145">
+        <attvalues>
+          <attvalue for="0" value="François de Seigneux" />
+          <attvalue for="1" value="François" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Seigneux" />
+          <attvalue for="4" value="de Seigneux" />
+          <attvalue for="5" value="le Président Seigneux" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="1699-1775, président du Conseil du duc d'Aremberg" />
+          <attvalue for="10" value="assesseur baillival, juge, auteur d'ouvrages de jurisprudence" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="146" label="146">
+        <attvalues>
+          <attvalue for="0" value="Jean-Daniel de Seigneux" />
+          <attvalue for="1" value="Jean-Daniel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Seigneux" />
+          <attvalue for="4" value="de Seigneux" />
+          <attvalue for="5" value="le Capitaine Seigneux" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fils de François de Seigneux et officier au service de Piémont, 1725-1795" />
+          <attvalue for="10" value="officier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="147" label="147">
+        <attvalues>
+          <attvalue for="0" value="Françoise-Charlotte de Seigneux" />
+          <attvalue for="1" value="Françoise-Charlotte" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Seigneux" />
+          <attvalue for="4" value="de Seigneux" />
+          <attvalue for="5" value="la capitaines Seigneux" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jean-Daniel de Seigneux,née Françoise-Charlotte Gaudard" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="148" label="148">
+        <attvalues>
+          <attvalue for="0" value="Jean-Samuel de Seigneux" />
+          <attvalue for="1" value="Jean-Samuel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Seigneux" />
+          <attvalue for="4" value="de Seigneux" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="bourgmestre de 1733 à 1766" />
+          <attvalue for="10" value="bourgmestre" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="149" label="149">
+        <attvalues>
+          <attvalue for="0" value="Julia de Seigneux" />
+          <attvalue for="1" value="Julia" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Seigneux" />
+          <attvalue for="4" value="de Seigneux" />
+          <attvalue for="5" value="la petite femme" />
+          <attvalue for="6" value="la petite" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Philippe-Louis de Seigneux (1735-1806), née Julia Von Huhnziger, d'Aarau" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="150" label="150">
+        <attvalues>
+          <attvalue for="0" value="Rose de Seigneux" />
+          <attvalue for="1" value="Rose" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Seigneux" />
+          <attvalue for="4" value="de Seigneux" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille de François de Seigneux" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="151" label="151">
+        <attvalues>
+          <attvalue for="0" value="Gabriel Seigneux de Correvon" />
+          <attvalue for="1" value="Gabriel" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Seigneux de Correvon" />
+          <attvalue for="4" value="le Boursier Seigneux" />
+          <attvalue for="5" value="ancien Boursier de Correvon" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="1695-1775, auteur d'ouvrages divers, boursier de 1740 à 1744" />
+          <attvalue for="10" value="auteur" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="152" label="152">
+        <attvalues>
+          <attvalue for="0" value="Madeleine-Jaqueline-Louis de Senarclens" />
+          <attvalue for="1" value="Madeleine-Jacqueline-Louis" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Senarclens" />
+          <attvalue for="4" value="de Senarclens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse d'Auguste-Victor de Senarclens (1733-1808), seigneur de Grancy, née Madeleine-Jaqueline-Louise de Chandieu-Chabot" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="153" label="153">
+        <attvalues>
+          <attvalue for="0" value="Mlle. de Senarclens de Vufflens" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Senarclens de Vufflens" />
+          <attvalue for="4" value="de Wuiflens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="fille de Anne de Senarclens de Vufflens" />
+          <attvalue for="10" value="Pas d'information" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="154" label="154">
+        <attvalues>
+          <attvalue for="0" value="Anne de Senarclens de Vufflens" />
+          <attvalue for="1" value="Anne" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Senarclens de Vufflens" />
+          <attvalue for="4" value="de Wuiflens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Henri-Louis de Senarclens, officier au service de Hollande, née Anne de Gingins-Eclépens, 1727-1796" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="155" label="155">
+        <attvalues>
+          <attvalue for="0" value="Lord Sheffield" />
+          <attvalue for="1" value="John Baker" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Sheffield" />
+          <attvalue for="4" value="John Baker Holroyd" />
+          <attvalue for="5" value="Lord Sheffield" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Lord" />
+          <attvalue for="8" value="Lord" />
+          <attvalue for="9" value="1735-1821, membre du parlement dés 1780, Lord Sheffield dès 1782" />
+          <attvalue for="10" value="Homme politique" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="156" label="156">
+        <attvalues>
+          <attvalue for="0" value="M. Shuttleworth" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Shuttleworth" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="157" label="157">
+        <attvalues>
+          <attvalue for="0" value="M. Sydney" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Sidney" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="gentilhomme anglois" />
+          <attvalue for="9" value="non identifé" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="158" label="158">
+        <attvalues>
+          <attvalue for="0" value="Samuel-Auguste-André-David Tissot" />
+          <attvalue for="1" value="Samuel-Auguste-André-David" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Tissot" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="médecin" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="159" label="159">
+        <attvalues>
+          <attvalue for="0" value="Charlotte Tissot" />
+          <attvalue for="1" value="Charlotte" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Tissot" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Samuel-Auguste-André-David Tissot, née Charlotte Dapples, femme divorcée de Marc-Antoine Porta" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="160" label="160">
+        <attvalues>
+          <attvalue for="0" value="Professeur Théodore-Louis de Treytorrens" />
+          <attvalue for="1" value="Théodore-Louis" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Treytorrens" />
+          <attvalue for="4" value="professeur de traytorrens" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Professseur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="professeur de mathématique à l'Académie" />
+          <attvalue for="10" value="professeur" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="161" label="161">
+        <attvalues>
+          <attvalue for="0" value="Albert de Tscharner" />
+          <attvalue for="1" value="Albert" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Tscharner" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="bailli de Lausanne de 1755 à 1763" />
+          <attvalue for="10" value="bailli" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="162" label="162">
+        <attvalues>
+          <attvalue for="0" value="M. Tysson" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Tysson" />
+          <attvalue for="4" value="Tyson" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="163" label="163">
+        <attvalues>
+          <attvalue for="0" value="Mme. Vallon" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Vallon" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="164" label="164">
+        <attvalues>
+          <attvalue for="0" value="Jacob Berthout Van Berchem" />
+          <attvalue for="1" value="Jacob Berthout" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Van Berchem" />
+          <attvalue for="4" value="Van-Berghen" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="hollandais en séjour à Lausanne, épousa Anne-Marie de Illens et se fixa au Pays de Vaud, 1736-1793" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="165" label="165">
+        <attvalues>
+          <attvalue for="0" value="Mlle. Vernet" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Vernet" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Mademoiselle" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="166" label="166">
+        <attvalues>
+          <attvalue for="0" value="Baron de Wolf" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Wolf" />
+          <attvalue for="4" value="de Wolf" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Baron" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="NaN" />
+          <attvalue for="10" value="baron" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="167" label="167">
+        <attvalues>
+          <attvalue for="0" value="M. Wuest" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Wuest" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="168" label="168">
+        <attvalues>
+          <attvalue for="0" value="Mme. Wuest" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Wuest" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="non identifié, épouse de M. Wuest" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="169" label="169">
+        <attvalues>
+          <attvalue for="0" value="NaN" />
+          <attvalue for="1" value="Louis Eugène" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Wurtemberg" />
+          <attvalue for="4" value="de Wirtemberg" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Prince" />
+          <attvalue for="8" value="Prince" />
+          <attvalue for="9" value="1731-1795, 2ème fils du duc Charles-Albert, élevé à Lausanne avec ses frères, y revint de 1763 à 1767, duc regnant de 1763 à sa mort" />
+          <attvalue for="10" value="Prince" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="170" label="170">
+        <attvalues>
+          <attvalue for="0" value="Princesse Sophie de Wurtemberg" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Wurtemberg" />
+          <attvalue for="4" value="de Wirtemberg" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Princesse" />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Louis-Eugène de Wurtemberg, née Sophie comtesse de Beichlingen" />
+          <attvalue for="10" value="Princesse" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="171" label="171">
+        <attvalues>
+          <attvalue for="0" value="Jean-François Wylliamoz" />
+          <attvalue for="1" value="Jean-François" />
+          <attvalue for="2" value="m" />
+          <attvalue for="3" value="Wylliamoz" />
+          <attvalue for="4" value="le capitaine Wylliamoz" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Monsieur " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="officier au service d'Angleterre" />
+          <attvalue for="10" value="officier" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="172" label="172">
+        <attvalues>
+          <attvalue for="0" value="Mme. Wylliamoz" />
+          <attvalue for="1" value="NaN" />
+          <attvalue for="2" value="f" />
+          <attvalue for="3" value="Wylliamoz" />
+          <attvalue for="4" value="Willyamoz l'Angloise" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="7" value="Madame " />
+          <attvalue for="8" value="NaN" />
+          <attvalue for="9" value="épouse de Jean-François Wylliamoz" />
+          <attvalue for="10" value="NaN" />
+          <attvalue for="11" value="NaN" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="2" target="137" id="0" weight="1" />
+      <edge source="2" target="170" id="1" weight="1" />
+      <edge source="2" target="79" id="2" weight="1" />
+      <edge source="2" target="99" id="3" weight="1" />
+      <edge source="6" target="27" id="4" weight="1" />
+      <edge source="6" target="79" id="5" weight="1" />
+      <edge source="20" target="120" id="6" weight="1" />
+      <edge source="20" target="44" id="7" weight="1" />
+      <edge source="20" target="45" id="8" weight="1" />
+      <edge source="20" target="79" id="9" weight="1" />
+      <edge source="27" target="79" id="10" weight="1" />
+      <edge source="29" target="120" id="11" weight="1" />
+      <edge source="29" target="149" id="12" weight="1" />
+      <edge source="29" target="45" id="13" weight="1" />
+      <edge source="29" target="79" id="14" weight="5" />
+      <edge source="29" target="86" id="15" weight="1" />
+      <edge source="29" target="92" id="16" weight="1" />
+      <edge source="44" target="117" id="17" weight="1" />
+      <edge source="44" target="120" id="18" weight="1" />
+      <edge source="44" target="146" id="19" weight="1" />
+      <edge source="44" target="171" id="20" weight="1" />
+      <edge source="44" target="45" id="21" weight="1" />
+      <edge source="44" target="79" id="22" weight="2" />
+      <edge source="44" target="92" id="23" weight="1" />
+      <edge source="45" target="120" id="24" weight="2" />
+      <edge source="45" target="79" id="25" weight="2" />
+      <edge source="45" target="86" id="26" weight="1" />
+      <edge source="48" target="79" id="27" weight="1" />
+      <edge source="66" target="122" id="28" weight="1" />
+      <edge source="66" target="79" id="29" weight="2" />
+      <edge source="66" target="85" id="30" weight="1" />
+      <edge source="66" target="92" id="31" weight="1" />
+      <edge source="72" target="79" id="32" weight="1" />
+      <edge source="77" target="169" id="33" weight="1" />
+      <edge source="77" target="79" id="34" weight="1" />
+      <edge source="77" target="92" id="35" weight="1" />
+      <edge source="79" target="117" id="36" weight="1" />
+      <edge source="79" target="120" id="37" weight="2" />
+      <edge source="79" target="122" id="38" weight="1" />
+      <edge source="79" target="137" id="39" weight="1" />
+      <edge source="79" target="139" id="40" weight="1" />
+      <edge source="79" target="146" id="41" weight="1" />
+      <edge source="79" target="149" id="42" weight="3" />
+      <edge source="79" target="151" id="43" weight="1" />
+      <edge source="79" target="155" id="44" weight="2" />
+      <edge source="79" target="160" id="45" weight="1" />
+      <edge source="79" target="162" id="46" weight="1" />
+      <edge source="79" target="164" id="47" weight="1" />
+      <edge source="79" target="169" id="48" weight="2" />
+      <edge source="79" target="170" id="49" weight="2" />
+      <edge source="79" target="171" id="50" weight="2" />
+      <edge source="79" target="85" id="51" weight="2" />
+      <edge source="79" target="86" id="52" weight="2" />
+      <edge source="79" target="88" id="53" weight="1" />
+      <edge source="79" target="92" id="54" weight="6" />
+      <edge source="79" target="93" id="55" weight="1" />
+      <edge source="79" target="97" id="56" weight="1" />
+      <edge source="79" target="99" id="57" weight="1" />
+      <edge source="85" target="122" id="58" weight="1" />
+      <edge source="85" target="92" id="59" weight="1" />
+      <edge source="86" target="120" id="60" weight="1" />
+      <edge source="86" target="171" id="61" weight="1" />
+      <edge source="92" target="117" id="62" weight="1" />
+      <edge source="92" target="122" id="63" weight="1" />
+      <edge source="92" target="139" id="64" weight="1" />
+      <edge source="92" target="146" id="65" weight="1" />
+      <edge source="92" target="162" id="66" weight="1" />
+      <edge source="92" target="164" id="67" weight="1" />
+      <edge source="92" target="169" id="68" weight="1" />
+      <edge source="92" target="171" id="69" weight="1" />
+      <edge source="92" target="93" id="70" weight="1" />
+      <edge source="93" target="164" id="71" weight="1" />
+      <edge source="97" target="160" id="72" weight="1" />
+      <edge source="97" target="169" id="73" weight="1" />
+      <edge source="97" target="170" id="74" weight="1" />
+      <edge source="99" target="137" id="75" weight="1" />
+      <edge source="99" target="170" id="76" weight="1" />
+      <edge source="117" target="146" id="77" weight="1" />
+      <edge source="117" target="171" id="78" weight="1" />
+      <edge source="137" target="170" id="79" weight="1" />
+      <edge source="139" target="162" id="80" weight="1" />
+      <edge source="146" target="171" id="81" weight="1" />
+      <edge source="160" target="169" id="82" weight="1" />
+      <edge source="160" target="170" id="83" weight="1" />
+      <edge source="169" target="170" id="84" weight="1" />
+    </edges>
+  </graph>
+</gexf>
