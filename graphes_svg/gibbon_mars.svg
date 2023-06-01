@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1699.6443"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-756.197266 -725.000000 1699.644287 1447.000000" height="1447.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_5 id_22"
+              d="M -661.176880,-410.304932 A 209.492281,209.492281 0,0 1,-668.186401,-189.732330"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_5 id_48"
+              d="M -654.237000,-433.663910 A 836.273414,836.273414 0,0 1,290.461975,-242.785141"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_5 id_149"
+              d="M -653.963745,-433.030457 A 238.393164,238.393164 0,0 1,-411.929932,-385.482361"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_5 id_168"
+              d="M -652.934998,-422.349854 A 358.521689,358.521689 0,0 1,-378.441803,-131.518906"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_5 id_79"
+              d="M -652.597473,-425.099243 A 671.696751,671.696751 0,0 1,-60.451805,21.705994"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_6 id_13"
+              d="M 276.155182,566.675537 A 221.139543,221.139543 0,0 1,52.516586,465.045471"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_6 id_27"
+              d="M 277.364319,558.704468 A 149.598688,149.598688 0,0 1,203.888336,419.452881"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_6 id_79"
+              d="M 276.634155,560.357849 A 489.533214,489.533214 0,0 1,-42.034386,139.110748"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_10 id_45"
+              d="M 553.178406,-254.485352 A 175.682608,175.682608 0,0 1,568.916199,-74.970955"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_10 id_79"
+              d="M 540.805054,-252.926987 A 567.885974,567.885974 0,0 1,16.858690,82.882782"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_13 id_27"
+              d="M 53.914211,445.125977 A 138.961252,138.961252 0,0 1,191.570923,400.754822"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_13 id_79"
+              d="M 37.284061,446.714081 A 321.665484,321.665484 0,0 1,-61.682434,136.143723"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_18 id_172"
+              d="M -679.179260,58.696972 A 237.615678,237.615678 0,0 1,-498.296112,250.699951"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_18 id_19"
+              d="M -680.622253,62.559666 A 382.272171,382.272171 0,0 1,-498.788147,460.519836"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_18 id_79"
+              d="M -681.175415,48.766533 A 541.153950,541.153950 0,0 1,-91.734314,44.087181"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_18 id_86"
+              d="M -681.839111,64.344109 A 136.869921,136.869921 0,0 1,-640.523926,200.818069"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_19 id_172"
+              d="M -508.556976,462.423889 A 174.790782,174.790782 0,0 1,-504.174927,274.225800"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_19 id_79"
+              d="M -498.377502,460.609039 A 503.794587,503.794587 0,0 1,-102.544281,86.684189"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_19 id_86"
+              d="M -513.131348,467.645721 A 247.324005,247.324005 0,0 1,-645.900330,226.301147"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_149"
+              d="M -458.538849,68.909386 A 376.596410,376.596410 0,0 1,-411.169556,-343.291901"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_167"
+              d="M -436.434326,90.876114 A 184.807783,184.807783 0,0 1,-345.649414,268.031281"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_48"
+              d="M -442.198700,69.477478 A 683.431725,683.431725 0,0 1,281.382080,-227.531036"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_79"
+              d="M -437.685791,73.686752 A 339.880714,339.880714 0,0 1,-94.333809,48.018814"
+              stroke="#fbffb7" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_22 id_149"
+              d="M -672.334229,-192.015564 A 287.134490,287.134490 0,0 1,-420.678101,-365.002258"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_22 id_168"
+              d="M -662.080139,-182.079620 A 257.900533,257.900533 0,0 1,-388.714417,-126.544899"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_22 id_48"
+              d="M -664.674988,-186.383102 A 826.027952,826.027952 0,0 1,285.471710,-236.925354"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_22 id_79"
+              d="M -661.127991,-179.274902 A 570.754118,570.754118 0,0 1,-76.911903,29.605753"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_27 id_48"
+              d="M 199.073349,391.815308 A 528.293894,528.293894 0,0 1,289.518555,-198.529739"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_27 id_79"
+              d="M 191.607529,400.633301 A 341.524034,341.524034 0,0 1,-37.253323,138.840836"
+              stroke="#fbffb7" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_34 id_35"
+              d="M -145.462402,692.464722 A 137.834365,137.834365 0,0 1,-69.887985,574.122009"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_34 id_37"
+              d="M -160.005142,709.748535 A 194.417920,194.417920 0,0 1,-347.489227,618.332031"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_34 id_41"
+              d="M -154.661819,695.854126 A 231.477754,231.477754 0,0 1,-173.934296,444.258484"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_34 id_66"
+              d="M -135.738663,695.776184 A 241.859325,241.859325 0,0 1,119.468811,622.048096"
+              stroke="#f9e1c4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_34 id_79"
+              d="M -151.932632,694.078552 A 530.510335,530.510335 0,0 1,-83.835495,123.100159"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_35 id_37"
+              d="M -67.252396,578.185486 A 250.854075,250.854075 0,0 1,-341.595764,612.304749"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_35 id_41"
+              d="M -70.457382,563.562378 A 146.622894,146.622894 0,0 1,-164.433167,446.436401"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_35 id_66"
+              d="M -41.765469,563.681213 A 165.600083,165.600083 0,0 1,124.322868,615.176208"
+              stroke="#d6bde8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_35 id_79"
+              d="M -64.591843,555.670227 A 407.618061,407.618061 0,0 1,-76.734856,128.752762"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_37 id_41"
+              d="M -351.629639,590.561951 A 214.557868,214.557868 0,0 1,-181.632706,432.711914"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_37 id_66"
+              d="M -342.291809,596.994080 A 407.509724,407.509724 0,0 1,121.895088,617.610229"
+              stroke="#f9e1c4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_37 id_79"
+              d="M -356.259583,590.277954 A 509.655182,509.655182 0,0 1,-97.019722,105.279335"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_39 id_149"
+              d="M -361.983704,415.750305 A 660.253829,660.253829 0,0 1,-407.421021,-340.415100"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_39 id_41"
+              d="M -341.440186,418.972046 A 156.190243,156.190243 0,0 1,-178.875305,421.268799"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_39 id_79"
+              d="M -351.722321,412.697052 A 388.144897,388.144897 0,0 1,-100.752083,95.470306"
+              stroke="#d8dadb" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_40 id_79"
+              d="M -599.433228,344.984497 A 520.578796,520.578796 0,0 1,-102.513054,71.311874"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_41 id_66"
+              d="M -149.772400,429.901917 A 298.451959,298.451959 0,0 1,128.217621,612.936157"
+              stroke="#f9e1c4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_41 id_79"
+              d="M -170.225235,415.096252 A 310.154763,310.154763 0,0 1,-89.371712,117.221512"
+              stroke="#fbffb7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_42 id_79"
+              d="M 384.385590,328.529358 A 419.595880,419.595880 0,0 1,-15.132473,132.242447"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_42 id_88"
+              d="M 401.438416,335.986938 A 127.369736,127.369736 0,0 1,405.462036,471.007172"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_137"
+              d="M 569.211060,-74.798904 A 195.925107,195.925107 0,0 1,751.640625,-159.334839"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_153"
+              d="M 564.371338,-30.199430 A 196.735667,196.735667 0,0 1,508.505981,163.295486"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_155"
+              d="M 546.352478,-75.992012 A 310.374006,310.374006 0,0 1,607.955505,-407.753784"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_169"
+              d="M 535.778259,-66.712227 A 544.283527,544.283527 0,0 1,304.735840,-640.426941"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_170"
+              d="M 537.457092,-69.065247 A 360.915004,360.915004 0,0 1,429.745209,-452.420807"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_48"
+              d="M 532.000610,-53.659176 A 247.321005,247.321005 0,0 1,322.735291,-191.992676"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_54"
+              d="M 540.837585,-34.693649 A 183.271579,183.271579 0,0 1,358.058563,14.774469"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_78"
+              d="M 570.783630,-33.416512 A 345.927415,345.927415 0,0 1,567.437317,348.164917"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_79"
+              d="M 540.144775,-35.295132 A 511.815420,511.815420 0,0 1,12.980433,100.650276"
+              stroke="#d8dadb" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_97"
+              d="M 579.412903,-44.171959 A 198.126671,198.126671 0,0 1,690.372803,126.677589"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_119"
+              d="M 282.341736,-209.739197 A 210.389053,210.389053 0,0 1,75.181870,-264.151672"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_149"
+              d="M 283.085663,-207.890060 A 597.894416,597.894416 0,0 1,-372.021179,-343.534546"
+              stroke="#b5b6ff" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_155"
+              d="M 323.014862,-248.307358 A 307.354292,307.354292 0,0 1,602.708618,-421.215179"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_168"
+              d="M 289.146423,-198.905563 A 579.336016,579.336016 0,0 1,-359.315094,-104.640884"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_169"
+              d="M 293.631165,-245.309738 A 364.803376,364.803376 0,0 1,298.590942,-643.215820"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_170"
+              d="M 307.562866,-250.555801 A 232.238938,232.238938 0,0 1,419.867920,-460.772430"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_49"
+              d="M 287.530579,-239.714539 A 200.398386,200.398386 0,0 1,233.671219,-436.914764"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_79"
+              d="M 303.036316,-190.729935 A 386.360662,386.360662 0,0 1,16.422421,70.980972"
+              stroke="#d8dadb" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_93"
+              d="M 281.085815,-214.212341 A 412.893101,412.893101 0,0 1,-132.959686,-399.614471"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_49 id_79"
+              d="M 239.286804,-436.470062 A 498.434428,498.434428 0,0 1,9.648549,50.384014"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_149"
+              d="M 44.487801,-456.646271 A 382.044001,382.044001 0,0 1,-364.813354,-354.075500"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_52"
+              d="M 40.654709,-475.199738 A 156.106828,156.106828 0,0 1,-41.426193,-614.033325"
+              stroke="#d8dadb" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_79"
+              d="M 61.667282,-454.313324 A 463.544039,463.544039 0,0 1,-1.880032,35.446880"
+              stroke="#fbffb7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_93"
+              d="M 44.477146,-456.655609 A 170.780963,170.780963 0,0 1,-124.142525,-410.539642"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_52 id_149"
+              d="M -45.173889,-614.718445 A 366.639212,366.639212 0,0 1,-362.801788,-365.968689"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_52 id_79"
+              d="M -31.285967,-616.989868 A 590.695879,590.695879 0,0 1,-9.330208,29.472281"
+              stroke="#d8dadb" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_52 id_93"
+              d="M -38.119617,-614.186646 A 196.821866,196.821866 0,0 1,-125.827782,-427.565613"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_54 id_79"
+              d="M 337.896057,19.774286 A 329.465675,329.465675 0,0 1,12.714080,101.330666"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_65 id_149"
+              d="M -553.787476,-61.656757 A 294.920744,294.920744 0,0 1,-417.039398,-350.690521"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_65 id_79"
+              d="M -540.115601,-53.863129 A 437.297651,437.297651 0,0 1,-83.878922,35.177975"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_66 id_79"
+              d="M 121.544861,618.070740 A 479.672782,479.672782 0,0 1,-58.963394,136.962723"
+              stroke="#f9e1c4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_78 id_137"
+              d="M 554.067261,345.626251 A 466.094291,466.094291 0,0 1,753.965881,-148.251907"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_78 id_153"
+              d="M 545.002808,351.547455 A 164.357166,164.357166 0,0 1,490.969757,190.923828"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_78 id_79"
+              d="M 541.911560,364.591339 A 553.364948,553.364948 0,0 1,-12.057634,130.510895"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_78 id_97"
+              d="M 556.987610,345.182068 A 212.846074,212.846074 0,0 1,675.357910,149.723999"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_119"
+              d="M -57.944477,21.003893 A 308.891462,308.891462 0,0 1,52.457932,-266.090729"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_137"
+              d="M -4.986840,32.715878 A 703.758873,703.758873 0,0 1,752.448914,-162.532074"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_149"
+              d="M -99.878143,59.948387 A 470.379111,470.379111 0,0 1,-390.188507,-335.833649"
+              stroke="#d8dadb" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_153"
+              d="M 12.182895,55.617958 A 455.760378,455.760378 0,0 1,483.599731,162.161362"
+              stroke="#d8dadb" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_154"
+              d="M 13.456975,58.870514 A 316.527087,316.527087 0,0 1,321.186615,147.760834"
+              stroke="#d8dadb" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_155"
+              d="M -23.840649,22.267931 A 692.317833,692.317833 0,0 1,602.696106,-420.225372"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_159"
+              d="M -95.127724,49.368073 A 663.486047,663.486047 0,0 1,-394.777466,-621.052246"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_164"
+              d="M -87.963776,39.365417 A 585.801572,585.801572 0,0 1,-225.630615,-586.625427"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_167"
+              d="M -68.805908,133.296829 A 303.344333,303.344333 0,0 1,-335.752930,279.753082"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_168"
+              d="M -103.002899,80.677094 A 320.303434,320.303434 0,0 1,-368.073151,-96.227936"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_169"
+              d="M -52.218731,19.827742 A 680.691806,680.691806 0,0 1,293.108215,-649.393677"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_170"
+              d="M -35.634956,19.575510 A 606.737342,606.737342 0,0 1,418.090759,-465.443268"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_172"
+              d="M -77.611816,128.145660 A 407.969242,407.969242 0,0 1,-483.774414,266.773773"
+              stroke="#d8dadb" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_83"
+              d="M 16.959223,80.573730 A 295.328129,295.328129 0,0 1,252.412369,259.870972"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_85"
+              d="M -65.996841,23.691385 A 675.612715,675.612715 0,0 1,114.899933,-707.274048"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_86"
+              d="M -84.628098,122.351143 A 513.480560,513.480560 0,0 1,-632.421875,218.535065"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_88"
+              d="M 16.277750,88.251526 A 497.708008,497.708008 0,0 1,397.475037,469.515411"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_92"
+              d="M -60.841370,21.825699 A 581.882098,581.882098 0,0 1,148.315872,-583.417603"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_93"
+              d="M -84.888527,36.138798 A 422.012999,422.012999 0,0 1,-151.954453,-398.434814"
+              stroke="#d8dadb" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_97"
+              d="M 9.410746,49.952339 A 613.408331,613.408331 0,0 1,677.957092,132.284882"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_85 id_92"
+              d="M 131.092834,-707.420715 A 107.583080,107.583080 0,0 1,160.375031,-600.101990"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_86 id_172"
+              d="M -631.788757,209.878098 A 130.222633,130.222633 0,0 1,-504.386414,253.235931"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_93 id_149"
+              d="M -157.861023,-402.418793 A 211.355989,211.355989 0,0 1,-364.699554,-354.367218"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_93 id_159"
+              d="M -164.002914,-419.610352 A 276.133819,276.133819 0,0 1,-388.378479,-621.226807"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_93 id_164"
+              d="M -160.595673,-428.755798 A 166.005802,166.005802 0,0 1,-223.036285,-585.852661"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_97 id_137"
+              d="M 684.541077,127.719543 A 258.199198,258.199198 0,0 1,755.375793,-146.330933"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_97 id_153"
+              d="M 678.357056,154.228745 A 164.400857,164.400857 0,0 1,511.058533,181.589279"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_119 id_149"
+              d="M 50.644096,-269.089417 A 387.558884,387.558884 0,0 1,-371.538574,-343.993378"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_137 id_153"
+              d="M 766.724426,-140.623260 A 357.421352,357.421352 0,0 1,512.037537,169.978607"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_149 id_159"
+              d="M -407.606628,-388.952942 A 226.471549,226.471549 0,0 1,-400.966736,-623.617310"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_149 id_164"
+              d="M -390.442993,-393.667542 A 243.618892,243.618892 0,0 1,-234.719193,-596.129517"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_149 id_168"
+              d="M -374.495941,-341.479156 A 210.114178,210.114178 0,0 1,-366.367676,-129.087936"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_153 id_154"
+              d="M 480.292297,182.229218 A 139.673634,139.673634 0,0 1,337.567352,163.666061"
+              stroke="#b5b6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_155 id_169"
+              d="M 602.705261,-421.125366 A 326.582323,326.582323 0,0 1,314.393951,-640.745483"
+              stroke="#fbffb7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_155 id_170"
+              d="M 603.657471,-414.673645 A 159.522889,159.522889 0,0 1,447.659302,-455.956665"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_159 id_164"
+              d="M -377.457184,-642.448120 A 146.423525,146.423525 0,0 1,-230.898849,-612.413940"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_169 id_170"
+              d="M 325.732300,-651.218811 A 189.269847,189.269847 0,0 1,435.759918,-487.514648"
+              stroke="#d8dadb" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fbffb7" r="17.104046" cx="-671.1678"
+                class="id_5" cy="-425.98358" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.9746165"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="11.115164" cx="288.0203"
+                class="id_6" cy="564.3981" stroke="#afb280" stroke-opacity="1.0"
+                stroke-width="1.9330719"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="11.243109" cx="545.6784"
+                class="id_10" cy="-264.13403" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.9553233"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="11.115164" cx="46.428947"
+                class="id_13" cy="454.60956" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="1.9330719"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="12.033175" cx="-692.00006"
+                class="id_18" cy="56.108276" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.092726"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="12.033175" cx="-501.3585"
+                class="id_19" cy="473.34433" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.092726"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="14.995519" cx="-450.85873"
+                class="id_20" cy="83.28606" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.607916"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="17.104046" cx="-679.15265"
+                class="id_22" cy="-174.71968" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.9746165"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="13.46741" cx="205.60568"
+                class="id_27" cy="404.91547" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.342158"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="13.8223715" cx="-145.15219"
+                class="id_34" cy="707.48584" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.4038906"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="13.8223715" cx="-56.129913"
+                class="id_35" cy="568.08496" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.4038906"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="13.8223715" cx="-354.8535"
+                class="id_37" cy="605.2363" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.4038906"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="12.878724" cx="-353.16415"
+                class="id_39" cy="426.62122" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.239778"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="9.2" cx="-604.0647"
+                class="id_40" cy="353.8473" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="14.732483" cx="-165.77556"
+                class="id_41" cy="430.4792" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.562171"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="9.908694" cx="395.08444"
+                class="id_42" cy="327.2906" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.7232511"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="22.672144" cx="556.64417"
+                class="id_45" cy="-53.600285" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="3.9429815"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="28.101562" cx="311.03662"
+                class="id_48" cy="-220.20879" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="4.8872285"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="11.791167" cx="237.46608"
+                class="id_49" cy="-449.15656" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.0506377"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="14.449444" cx="54.83992"
+                class="id_51" cy="-468.45767" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.5129466"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="14.449444" cx="-40.496353"
+                class="id_52" cy="-629.7117" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.5129466"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="11.243109" cx="346.42743"
+                class="id_54" cy="11.024248" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.9553233"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="11.648821" cx="-551.86426"
+                class="id_65" cy="-49.14191" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.025882"/>
+        <circle fill-opacity="1.0" fill="#f8c4d2" r="13.8223715" cx="133.6766"
+                class="id_66" cy="626.93365" stroke="#ad8993"
+                stroke-opacity="1.0" stroke-width="2.4038906"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="15.04972" cx="557.97723"
+                class="id_78" cy="361.5105" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.6173425"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="55.2" cx="-43.023136"
+                class="id_79" cy="79.1189" stroke="#afb280" stroke-opacity="1.0"
+                stroke-width="9.599999"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="9.2" cx="256.10516"
+                class="id_83" cy="269.16415" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="9.908694" cx="122.932076"
+                class="id_85" cy="-714.44934" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="1.7232511"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="12.033175" cx="-644.41095"
+                class="id_86" cy="213.30669" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.092726"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="9.908694" cx="399.63718"
+                class="id_88" cy="480.06647" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.7232511"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="9.908694" cx="156.915"
+                class="id_92" cy="-589.9026" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="1.7232511"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="18.912273" cx="-143.58655"
+                class="id_93" cy="-417.21143" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="3.289091"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="15.04972" cx="690.28656"
+                class="id_97" cy="143.03575" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.6173425"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="14.239988" cx="64.70976"
+                class="id_119" cy="-275.54953" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.4765198"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="15.04972" cx="767.8235"
+                class="id_137" cy="-156.94469" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.6173425"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="26.63554" cx="-391.72757"
+                class="id_149" cy="-364.7444" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="4.6322675"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="15.738986" cx="495.5199"
+                class="id_153" cy="174.43243" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.7372148"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="10.52114" cx="328.90634"
+                class="id_154" cy="156.19817" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="1.8297634"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="16.606014" cx="620.74414"
+                class="id_155" cy="-420.4917" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.8880026"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="14.449444" cx="-391.99734"
+                class="id_159" cy="-636.51013" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.5129466"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="14.449444" cx="-219.86636"
+                class="id_164" cy="-601.23535" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.5129466"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="10.422106" cx="-347.071"
+                class="id_167" cy="279.2701" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="1.81254"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="17.104046" cx="-375.8671"
+                class="id_168" cy="-113.106705" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.9746165"/>
+        <circle fill-opacity="1.0" fill="#fbffb7" r="16.606014" cx="308.9916"
+                class="id_169" cy="-657.9681" stroke="#afb280"
+                stroke-opacity="1.0" stroke-width="2.8880026"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="16.606014" cx="435.68707"
+                class="id_170" cy="-469.46478" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.8880026"/>
+        <circle fill-opacity="1.0" fill="#b5b6ff" r="12.033175" cx="-496.47598"
+                class="id_172" cy="263.65222" stroke="#7e7fb2"
+                stroke-opacity="1.0" stroke-width="2.092726"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="22" x="-671.1678" y="-421.98212"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_5" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.375px">
+            M. Beausobre
+        </text>
+        <text stroke-linecap="round" font-size="14" x="288.0203" y="566.98773"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_6" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            Peter Beckford
+        </text>
+        <text stroke-linecap="round" font-size="15" x="545.6784" y="-261.40576"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_10" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.9375px">
+            la Baillive Berset
+        </text>
+        <text stroke-linecap="round" font-size="14" x="46.428947" y="457.15594"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_13" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            M. Billon
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-692.00006" y="59.814007"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_18" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.0px">
+            Mlles. Bourgeois
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-501.3585" y="477.05005"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_19" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.0px">
+            Mme. Bourgeois
+        </text>
+        <text stroke-linecap="round" font-size="20" x="-450.85873" y="87.91822"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_20" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Jacques-Justin Bourgeois
+        </text>
+        <text stroke-linecap="round" font-size="22" x="-679.15265"
+              y="-170.68958" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_22" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.375px">
+            Johannes Bürkli
+        </text>
+        <text stroke-linecap="round" font-size="18" x="205.60568" y="409.14008"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_27" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Godfrey Bagnal Clarke
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-145.15219" y="710.81836"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_34" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            David Constant d&apos;Hermenches
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-56.129913" y="571.4175"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_35" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Louise Constant d&apos;Hermenches
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-354.8535" y="608.56885"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_37" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Frédéric de Crousaz
+        </text>
+        <text stroke-linecap="round" font-size="17" x="-353.16415" y="429.76862"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_39" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.0625px">
+            Catherine Crousaz
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-604.0647" y="356.06897"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_40" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Jeanne Crousaz
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-165.77556" y="433.99683"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_41" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.1875px">
+            Jean-Louis Crousaz de Corsier
+        </text>
+        <text stroke-linecap="round" font-size="13" x="395.08444" y="329.6974"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_42" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.8125px">
+            Mlles. Crousaz de Corsier
+        </text>
+        <text stroke-linecap="round" font-size="30" x="556.64417" y="-46.55927"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_45" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Suzanne Crousaz de Mézery
+        </text>
+        <text stroke-linecap="round" font-size="37" x="311.03662" y="-213.35861"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_48" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.3125px">
+            Suzanne Curchod
+        </text>
+        <text stroke-linecap="round" font-size="15" x="237.46608" y="-446.37946"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_49" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.9375px">
+            Anne-Catherine Curchod
+        </text>
+        <text stroke-linecap="round" font-size="19" x="54.83992" y="-464.1128"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_51" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.1875px">
+            Jean-François Dapples
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-40.496353"
+              y="-625.36676" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_52" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.1875px">
+            Jeanne-Elisabeth Dapples
+        </text>
+        <text stroke-linecap="round" font-size="15" x="346.42743" y="13.75252"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_54" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.9375px">
+            Mme. d&apos;Avenches
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-551.86426" y="-46.36481"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_65" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.9375px">
+            Gabriel Dufour
+        </text>
+        <text stroke-linecap="round" font-size="18" x="133.6766" y="631.04987"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_66" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.125px">
+            Dupleix
+        </text>
+        <text stroke-linecap="round" font-size="20" x="557.97723" y="366.20453"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_78" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Angélique Gentils de Langallerie
+        </text>
+        <text stroke-linecap="round" font-size="72" x="-43.023136" y="92.448975"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_79" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="4.5px">
+            Edward Gibbon
+        </text>
+        <text stroke-linecap="round" font-size="12" x="256.10516" y="271.38583"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_83" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Mme. de Goumoens
+        </text>
+        <text stroke-linecap="round" font-size="13" x="122.932076" y="-711.3982"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_85" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.8125px">
+            Major George Grand
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-644.41095" y="216.26892"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_86" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.0px">
+            Anne-Catherine Grand
+        </text>
+        <text stroke-linecap="round" font-size="13" x="399.63718" y="483.06995"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_88" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.8125px">
+            Françoise-Elisabeth Grand
+        </text>
+        <text stroke-linecap="round" font-size="13" x="156.915" y="-587.4957"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_92" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.8125px">
+            William Guise
+        </text>
+        <text stroke-linecap="round" font-size="25" x="-143.58655" y="-412.6643"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_93" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5625px">
+            Anne-Marie de Illens
+        </text>
+        <text stroke-linecap="round" font-size="20" x="690.28656" y="146.6767"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_97" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            David Jenner
+        </text>
+        <text stroke-linecap="round" font-size="19" x="64.70976" y="-272.09372"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_119" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.1875px">
+            Mme. Pavillard
+        </text>
+        <text stroke-linecap="round" font-size="20" x="767.8235" y="-153.24515"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_137" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Antoine-Emmanuel Rosset de Rochefort
+        </text>
+        <text stroke-linecap="round" font-size="35" x="-391.72757"
+              y="-356.52985" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_149" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="2.1875px">
+            Julia de Seigneux
+        </text>
+        <text stroke-linecap="round" font-size="21" x="495.5199" y="178.32037"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_153" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.3125px">
+            Mlle. de Senarclens de Vufflens
+        </text>
+        <text stroke-linecap="round" font-size="14" x="328.90634" y="158.79013"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_154" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            Anne de Senarclens de Vufflens
+        </text>
+        <text stroke-linecap="round" font-size="22" x="620.74414" y="-416.41864"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_155" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.375px">
+            Lord Sheffield
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-391.99734"
+              y="-632.99243" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_159" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.1875px">
+            Charlotte Tissot
+        </text>
+        <text stroke-linecap="round" font-size="19" x="-219.86636" y="-597.7764"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_164" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.1875px">
+            Jacob Berthout Van Berchem
+        </text>
+        <text stroke-linecap="round" font-size="14" x="-347.071" y="281.8165"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_167" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.875px">
+            M. Wuest
+        </text>
+        <text stroke-linecap="round" font-size="22" x="-375.8671" y="-109.10524"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_168" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.375px">
+            Mme. Wuest
+        </text>
+        <text stroke-linecap="round" font-size="22" x="308.9916" y="-652.8727"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_169" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.375px">
+            Prince de Wurtemberg
+        </text>
+        <text stroke-linecap="round" font-size="22" x="435.68707" y="-464.3014"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_170" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.375px">
+            Princesse Sophie de Wurtemberg
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-496.47598" y="267.35794"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_172" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.0px">
+            Mme. Wylliamoz
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="22" x="-671.1678" y="-421.98212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_5">
+            M. Beausobre
+        </text>
+        <text font-size="14" x="288.0203" y="566.98773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_6">
+            Peter Beckford
+        </text>
+        <text font-size="15" x="545.6784" y="-261.40576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_10">
+            la Baillive Berset
+        </text>
+        <text font-size="14" x="46.428947" y="457.15594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_13">
+            M. Billon
+        </text>
+        <text font-size="16" x="-692.00006" y="59.814007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_18">
+            Mlles. Bourgeois
+        </text>
+        <text font-size="16" x="-501.3585" y="477.05005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_19">
+            Mme. Bourgeois
+        </text>
+        <text font-size="20" x="-450.85873" y="87.91822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_20">
+            Jacques-Justin Bourgeois
+        </text>
+        <text font-size="22" x="-679.15265" y="-170.68958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_22">
+            Johannes Bürkli
+        </text>
+        <text font-size="18" x="205.60568" y="409.14008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_27">
+            Godfrey Bagnal Clarke
+        </text>
+        <text font-size="18" x="-145.15219" y="710.81836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_34">
+            David Constant d&apos;Hermenches
+        </text>
+        <text font-size="18" x="-56.129913" y="571.4175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_35">
+            Louise Constant d&apos;Hermenches
+        </text>
+        <text font-size="18" x="-354.8535" y="608.56885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_37">
+            Frédéric de Crousaz
+        </text>
+        <text font-size="17" x="-353.16415" y="429.76862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_39">
+            Catherine Crousaz
+        </text>
+        <text font-size="12" x="-604.0647" y="356.06897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_40">
+            Jeanne Crousaz
+        </text>
+        <text font-size="19" x="-165.77556" y="433.99683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_41">
+            Jean-Louis Crousaz de Corsier
+        </text>
+        <text font-size="13" x="395.08444" y="329.6974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_42">
+            Mlles. Crousaz de Corsier
+        </text>
+        <text font-size="30" x="556.64417" y="-46.55927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_45">
+            Suzanne Crousaz de Mézery
+        </text>
+        <text font-size="37" x="311.03662" y="-213.35861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_48">
+            Suzanne Curchod
+        </text>
+        <text font-size="15" x="237.46608" y="-446.37946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_49">
+            Anne-Catherine Curchod
+        </text>
+        <text font-size="19" x="54.83992" y="-464.1128" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_51">
+            Jean-François Dapples
+        </text>
+        <text font-size="19" x="-40.496353" y="-625.36676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_52">
+            Jeanne-Elisabeth Dapples
+        </text>
+        <text font-size="15" x="346.42743" y="13.75252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_54">
+            Mme. d&apos;Avenches
+        </text>
+        <text font-size="15" x="-551.86426" y="-46.36481" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_65">
+            Gabriel Dufour
+        </text>
+        <text font-size="18" x="133.6766" y="631.04987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_66">
+            Dupleix
+        </text>
+        <text font-size="20" x="557.97723" y="366.20453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_78">
+            Angélique Gentils de Langallerie
+        </text>
+        <text font-size="72" x="-43.023136" y="92.448975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_79">
+            Edward Gibbon
+        </text>
+        <text font-size="12" x="256.10516" y="271.38583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_83">
+            Mme. de Goumoens
+        </text>
+        <text font-size="13" x="122.932076" y="-711.3982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_85">
+            Major George Grand
+        </text>
+        <text font-size="16" x="-644.41095" y="216.26892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_86">
+            Anne-Catherine Grand
+        </text>
+        <text font-size="13" x="399.63718" y="483.06995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_88">
+            Françoise-Elisabeth Grand
+        </text>
+        <text font-size="13" x="156.915" y="-587.4957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_92">
+            William Guise
+        </text>
+        <text font-size="25" x="-143.58655" y="-412.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_93">
+            Anne-Marie de Illens
+        </text>
+        <text font-size="20" x="690.28656" y="146.6767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_97">
+            David Jenner
+        </text>
+        <text font-size="19" x="64.70976" y="-272.09372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_119">
+            Mme. Pavillard
+        </text>
+        <text font-size="20" x="767.8235" y="-153.24515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_137">
+            Antoine-Emmanuel Rosset de Rochefort
+        </text>
+        <text font-size="35" x="-391.72757" y="-356.52985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_149">
+            Julia de Seigneux
+        </text>
+        <text font-size="21" x="495.5199" y="178.32037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_153">
+            Mlle. de Senarclens de Vufflens
+        </text>
+        <text font-size="14" x="328.90634" y="158.79013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_154">
+            Anne de Senarclens de Vufflens
+        </text>
+        <text font-size="22" x="620.74414" y="-416.41864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_155">
+            Lord Sheffield
+        </text>
+        <text font-size="19" x="-391.99734" y="-632.99243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_159">
+            Charlotte Tissot
+        </text>
+        <text font-size="19" x="-219.86636" y="-597.7764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_164">
+            Jacob Berthout Van Berchem
+        </text>
+        <text font-size="14" x="-347.071" y="281.8165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_167">
+            M. Wuest
+        </text>
+        <text font-size="22" x="-375.8671" y="-109.10524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_168">
+            Mme. Wuest
+        </text>
+        <text font-size="22" x="308.9916" y="-652.8727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_169">
+            Prince de Wurtemberg
+        </text>
+        <text font-size="22" x="435.68707" y="-464.3014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_170">
+            Princesse Sophie de Wurtemberg
+        </text>
+        <text font-size="16" x="-496.47598" y="267.35794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_172">
+            Mme. Wylliamoz
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1645.2544"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-779.334961 -896.000000 1645.254395 1617.000000" height="1617.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_12 id_79"
+              d="M -395.473877,-151.707077 A 463.946260,463.946260 0,0 1,92.626534,-57.974792"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_12 id_149"
+              d="M -398.107300,-138.178787 A 204.921498,204.921498 0,0 1,-350.610077,66.658447"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_15 id_79"
+              d="M 241.248993,463.009247 A 414.302301,414.302301 0,0 1,113.733421,42.506783"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_18 id_79"
+              d="M -199.475479,-212.217529 A 329.630139,329.630139 0,0 1,104.964943,-66.859001"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_43"
+              d="M 75.188309,525.511108 A 204.432683,204.432683 0,0 1,-143.029327,536.061646"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_79"
+              d="M 79.876266,501.018433 A 442.827894,442.827894 0,0 1,96.753067,33.255791"
+              stroke="#fffdbd" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_85"
+              d="M 74.831680,525.027039 A 372.828049,372.828049 0,0 1,-344.506989,523.884399"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_89"
+              d="M 99.218109,528.152100 A 160.198905,160.198905 0,0 1,115.982132,693.617981"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_90"
+              d="M 79.801895,529.651123 A 324.674009,324.674009 0,0 1,-254.877625,673.097107"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_91"
+              d="M 85.514969,531.808777 A 187.241000,187.241000 0,0 1,-54.632313,672.929810"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_20 id_92"
+              d="M 72.393959,510.763916 A 161.730391,161.730391 0,0 1,-34.841103,383.578369"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_27 id_171"
+              d="M -217.643021,-72.293198 A 467.869295,467.869295 0,0 1,-431.511169,-569.939758"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_27 id_79"
+              d="M -198.510239,-71.680481 A 288.200799,288.200799 0,0 1,87.370262,-52.397720"
+              stroke="#fffdbd" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_29 id_112"
+              d="M -252.563919,-476.249847 A 158.195337,158.195337 0,0 1,-144.519043,-353.699036"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_29 id_139"
+              d="M -264.369751,-464.004578 A 171.034170,171.034170 0,0 1,-320.089325,-293.284088"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_29 id_149"
+              d="M -261.516296,-465.133636 A 485.628185,485.628185 0,0 1,-340.833801,73.043365"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_29 id_159"
+              d="M -279.031281,-494.730621 A 151.122418,151.122418 0,0 1,-279.937897,-650.097961"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_29 id_48"
+              d="M -254.073929,-488.686035 A 249.387680,249.387680 0,0 1,10.955718,-460.614410"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_29 id_79"
+              d="M -252.483963,-476.574615 A 513.576792,513.576792 0,0 1,125.953827,-73.632545"
+              stroke="#dadade" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_31"
+              d="M -23.410479,-737.695862 A 208.522356,208.522356 0,0 1,173.329254,-654.167053"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_32"
+              d="M -23.100855,-734.732788 A 565.253731,565.253731 0,0 1,510.968964,-368.781616"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_42"
+              d="M -25.591324,-743.671448 A 540.377532,540.377532 0,0 1,588.339539,-676.912903"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_55"
+              d="M -23.642212,-738.776123 A 691.407392,691.407392 0,0 1,715.415894,-435.478302"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_79"
+              d="M -27.619337,-721.907654 A 617.710648,617.710648 0,0 1,154.459900,-70.365326"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_81"
+              d="M -23.637640,-738.757446 A 428.065270,428.065270 0,0 1,424.252380,-558.849670"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30 id_82"
+              d="M -32.170998,-750.478088 A 298.867277,298.867277 0,0 1,268.408081,-880.314453"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_149"
+              d="M 186.314896,-608.382202 A 759.760051,759.760051 0,0 1,-333.022766,85.782600"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_32"
+              d="M 211.534378,-630.820740 A 362.342896,362.342896 0,0 1,512.733582,-369.317902"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_42"
+              d="M 206.091965,-648.923462 A 347.380942,347.380942 0,0 1,586.159363,-673.972656"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_48"
+              d="M 183.799423,-608.557373 A 204.696431,204.696431 0,0 1,49.660164,-452.060822"
+              stroke="#b5b8ff" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_50"
+              d="M 207.498306,-619.486145 A 256.232824,256.232824 0,0 1,306.824829,-363.188843"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_53"
+              d="M 211.358429,-629.431030 A 541.562580,541.562580 0,0 1,648.782959,-193.248383"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_55"
+              d="M 210.942947,-639.149902 A 482.986075,482.986075 0,0 1,715.138367,-435.304230"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_79"
+              d="M 199.435806,-611.837280 A 517.843913,517.843913 0,0 1,170.891632,-61.100292"
+              stroke="#dadade" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_81"
+              d="M 210.959656,-639.081055 A 219.770753,219.770753 0,0 1,423.416809,-558.285278"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_31 id_82"
+              d="M 181.948410,-657.645325 A 219.229270,219.229270 0,0 1,271.127502,-866.012146"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_32 id_42"
+              d="M 510.976135,-368.784180 A 270.552408,270.552408 0,0 1,587.878357,-651.896851"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_32 id_55"
+              d="M 529.105286,-365.869659 A 182.483284,182.483284 0,0 1,707.051392,-424.390991"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_32 id_79"
+              d="M 513.049805,-332.264648 A 425.480940,425.480940 0,0 1,192.924179,-22.917341"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_32 id_81"
+              d="M 501.382904,-361.188385 A 174.230073,174.230073 0,0 1,431.067932,-524.020752"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_32 id_82"
+              d="M 500.980133,-360.537811 A 478.223298,478.223298 0,0 1,283.093048,-857.810730"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_33 id_149"
+              d="M -718.613831,169.668213 A 312.684441,312.684441 0,0 1,-390.352509,83.915092"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_33 id_79"
+              d="M -718.668335,169.620636 A 735.513378,735.513378 0,0 1,77.880135,-36.441280"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_33 id_88"
+              d="M -727.912781,166.335052 A 141.511327,141.511327 0,0 1,-649.032227,41.629742"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_39 id_149"
+              d="M -480.689545,-259.964752 A 320.162544,320.162544 0,0 1,-354.393982,65.407288"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_39 id_79"
+              d="M -478.848267,-270.170868 A 561.562834,561.562834 0,0 1,99.897377,-63.776691"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_42 id_55"
+              d="M 619.188965,-654.934387 A 228.344387,228.344387 0,0 1,728.003723,-438.128967"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_42 id_79"
+              d="M 602.575073,-645.074646 A 667.922845,667.922845 0,0 1,189.990875,-34.539104"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_42 id_81"
+              d="M 595.832764,-646.275757 A 172.704372,172.704372 0,0 1,453.554199,-543.486206"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_42 id_82"
+              d="M 583.432190,-663.740356 A 316.846581,316.846581 0,0 1,293.882477,-858.644958"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_43 id_105"
+              d="M -171.516724,522.358215 A 206.378369,206.378369 0,0 1,-300.944672,340.305023"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_43 id_149"
+              d="M -170.462662,520.018311 A 399.323511,399.323511 0,0 1,-366.917999,124.750381"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_43 id_79"
+              d="M -158.705399,511.947815 A 512.164541,512.164541 0,0 1,80.754692,14.346423"
+              stroke="#fffdbd" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_43 id_92"
+              d="M -155.828461,511.816376 A 167.082017,167.082017 0,0 1,-52.400085,372.498230"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_44 id_127"
+              d="M 573.284607,460.636169 A 291.571491,291.571491 0,0 1,281.252930,608.608887"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_44 id_143"
+              d="M 576.913757,461.928955 A 170.178012,170.178012 0,0 1,446.090820,587.650879"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_44 id_56"
+              d="M 574.984741,435.390442 A 178.446089,178.446089 0,0 1,623.676147,250.296036"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_44 id_77"
+              d="M 567.551270,454.996490 A 152.867260,152.867260 0,0 1,407.754608,438.996552"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_44 id_79"
+              d="M 566.075012,446.010254 A 535.499806,535.499806 0,0 1,144.309753,44.913254"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_45 id_79"
+              d="M 242.922516,331.698395 A 308.951607,308.951607 0,0 1,120.256561,44.385376"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_112"
+              d="M 18.473980,-425.401001 A 167.641519,167.641519 0,0 1,-127.909393,-338.563324"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_120"
+              d="M 50.519619,-446.670593 A 671.485569,671.485569 0,0 1,693.351379,-9.265453"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_138"
+              d="M 50.500587,-447.084412 A 424.200550,424.200550 0,0 1,454.433289,-185.620239"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_149"
+              d="M 27.949566,-423.295197 A 555.518675,555.518675 0,0 1,-333.289764,84.964645"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_159"
+              d="M 5.445045,-446.220428 A 308.209115,308.209115 0,0 1,-267.716278,-648.536072"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_50"
+              d="M 49.785545,-451.606018 A 243.441203,243.441203 0,0 1,294.958557,-360.821960"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_53"
+              d="M 49.998375,-450.730835 A 565.071033,565.071033 0,0 1,643.693115,-191.385605"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_79"
+              d="M 44.970428,-431.010834 A 370.372554,370.372554 0,0 1,152.592377,-71.023964"
+              stroke="#dadade" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_48 id_92"
+              d="M 39.726074,-426.591461 A 679.500807,679.500807 0,0 1,-25.768621,354.347351"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_50 id_53"
+              d="M 318.092285,-351.228729 A 322.568779,322.568779 0,0 1,644.209839,-191.678223"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_50 id_79"
+              d="M 305.733826,-334.192719 A 312.796974,312.796974 0,0 1,184.615204,-45.656834"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_149"
+              d="M -547.348145,476.186737 A 362.393708,362.393708 0,0 1,-388.120300,110.280380"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_52"
+              d="M -556.772156,483.280487 A 133.135625,133.135625 0,0 1,-623.439941,363.066437"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_51 id_79"
+              d="M -540.841492,476.535736 A 704.005760,704.005760 0,0 1,73.615379,-11.860613"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_52 id_149"
+              d="M -619.942200,336.430145 A 303.567900,303.567900 0,0 1,-391.869904,100.271172"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_52 id_79"
+              d="M -615.968506,337.797546 A 699.032718,699.032718 0,0 1,74.264641,-23.202955"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_53 id_79"
+              d="M 642.457947,-166.802750 A 452.652722,452.652722 0,0 1,191.409180,1.849348"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_55 id_79"
+              d="M 718.996338,-401.286438 A 597.676826,597.676826 0,0 1,193.571426,-14.536776"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_55 id_81"
+              d="M 706.744751,-415.346649 A 263.373530,263.373530 0,0 1,444.660522,-526.640503"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_55 id_82"
+              d="M 706.654297,-422.674042 A 527.821024,527.821024 0,0 1,289.717743,-857.573059"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_56 id_127"
+              d="M 631.970947,254.945419 A 431.228671,431.228671 0,0 1,281.241791,604.383301"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_56 id_143"
+              d="M 635.527039,255.054718 A 335.624503,335.624503 0,0 1,445.053162,584.210938"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_56 id_77"
+              d="M 630.323853,254.575592 A 252.518224,252.518224 0,0 1,410.966003,429.329956"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_56 id_79"
+              d="M 620.516541,243.458633 A 468.326703,468.326703 0,0 1,163.365112,37.962677"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_71 id_149"
+              d="M -555.741760,176.628616 A 183.728007,183.728007 0,0 1,-392.124023,90.949272"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_71 id_79"
+              d="M -554.409241,177.523941 A 603.544644,603.544644 0,0 1,76.464218,-32.519341"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_74 id_79"
+              d="M 119.022217,342.477264 A 304.118004,304.118004 0,0 1,101.243752,36.427032"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_77 id_127"
+              d="M 396.778992,443.929810 A 182.411962,182.411962 0,0 1,280.656311,602.030518"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_77 id_143"
+              d="M 407.178131,439.641541 A 136.356196,136.356196 0,0 1,437.518555,577.028564"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_77 id_79"
+              d="M 384.474762,424.629028 A 430.455763,430.455763 0,0 1,131.280106,45.837917"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_101"
+              d="M 192.810547,-4.584074 A 412.719837,412.719837 0,0 1,500.446869,306.496948"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_105"
+              d="M 114.261169,42.688934 A 460.273267,460.273267 0,0 1,-287.450287,326.129364"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_112"
+              d="M 76.388634,-32.283089 A 355.419806,355.419806 0,0 1,-141.373337,-324.541626"
+              stroke="#fffdbd" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_120"
+              d="M 184.713867,-45.496605 A 470.202516,470.202516 0,0 1,687.752258,-5.192466"
+              stroke="#fffdbd" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_127"
+              d="M 176.590561,27.708529 A 529.128295,529.128295 0,0 1,273.194916,593.897522"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_130"
+              d="M 190.399734,5.135569 A 302.876473,302.876473 0,0 1,366.876587,253.227844"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_131"
+              d="M 76.887169,5.547153 A 693.391187,693.391187 0,0 1,-659.116821,-220.464630"
+              stroke="#dadade" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_133"
+              d="M 73.584991,-15.323164 A 576.017637,576.017637 0,0 1,-428.233704,-398.656281"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_138"
+              d="M 165.855728,-64.693138 A 302.248243,302.248243 0,0 1,447.179016,-176.620270"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_139"
+              d="M 73.644691,-11.183807 A 448.047213,448.047213 0,0 1,-325.410828,-272.154114"
+              stroke="#fffdbd" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_143"
+              d="M 185.604950,15.759232 A 561.590300,561.590300 0,0 1,434.811523,576.268982"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_147"
+              d="M 105.873077,39.105045 A 556.977415,556.977415 0,0 1,-440.116425,308.725220"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_149"
+              d="M 91.291786,28.452953 A 422.842212,422.842212 0,0 1,-333.949036,106.369781"
+              stroke="#dadade" stroke-width="13.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_156"
+              d="M 81.969116,-44.729534 A 532.008290,532.008290 0,0 1,-145.168610,-578.605591"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_159"
+              d="M 78.659744,-38.295658 A 636.960373,636.960373 0,0 1,-273.247467,-647.830933"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_166"
+              d="M 80.323448,13.531276 A 573.688484,573.688484 0,0 1,-540.424988,-81.949501"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_167"
+              d="M 180.760223,-51.177074 A 335.959002,335.959002 0,0 1,524.813293,-64.370308"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_171"
+              d="M 74.688148,-25.632914 A 666.512374,666.512374 0,0 1,-426.500397,-569.739136"
+              stroke="#fffdbd" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_172"
+              d="M 73.791008,-9.006832 A 687.742130,687.742130 0,0 1,-579.533203,-408.468811"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_81"
+              d="M 129.568161,-73.984459 A 506.921163,506.921163 0,0 1,417.161560,-534.850464"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_82"
+              d="M 108.766838,-68.750305 A 729.910656,729.910656 0,0 1,273.314514,-863.262512"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_85"
+              d="M 124.169327,45.140266 A 601.470313,601.470313 0,0 1,-341.484558,510.133789"
+              stroke="#fffdbd" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_86"
+              d="M 114.730057,42.846180 A 312.281634,312.281634 0,0 1,-138.236923,227.308823"
+              stroke="#dadade" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_88"
+              d="M 86.252823,22.770916 A 643.270035,643.270035 0,0 1,-625.369385,43.490150"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_89"
+              d="M 165.424835,36.729092 A 600.847348,600.847348 0,0 1,118.116684,695.009827"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_90"
+              d="M 137.536987,45.750645 A 661.549097,661.549097 0,0 1,-255.735825,664.252747"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_91"
+              d="M 151.752335,43.061348 A 599.099148,599.099148 0,0 1,-57.378193,666.813049"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_92"
+              d="M 141.771973,45.318893 A 347.832653,347.832653 0,0 1,-22.266428,358.541626"
+              stroke="#fffdbd" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_95"
+              d="M 193.529922,-16.388630 A 321.838926,321.838926 0,0 1,465.466156,164.946457"
+              stroke="#dadade" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_79 id_96"
+              d="M 189.880829,-34.840614 A 378.007619,378.007619 0,0 1,569.942383,73.092812"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_81 id_82"
+              d="M 418.175720,-552.619324 A 303.997129,303.997129 0,0 1,283.363495,-857.755005"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_85 id_149"
+              d="M -369.325348,499.105804 A 348.938585,348.938585 0,0 1,-378.966888,119.973099"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_85 id_86"
+              d="M -358.667267,495.745270 A 293.503508,293.503508 0,0 1,-165.213684,232.860504"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_85 id_89"
+              d="M -341.634613,509.434052 A 421.884647,421.884647 0,0 1,101.447639,694.077209"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_85 id_90"
+              d="M -343.051605,521.481934 A 150.364781,150.364781 0,0 1,-268.052704,655.472473"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_85 id_91"
+              d="M -341.252625,511.708191 A 276.868377,276.868377 0,0 1,-75.214455,662.512329"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_86 id_149"
+              d="M -165.918777,229.053680 A 207.406557,207.406557 0,0 1,-349.256989,122.340042"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_88 id_149"
+              d="M -624.346863,30.964483 A 234.050716,234.050716 0,0 1,-383.409332,73.259773"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_89 id_90"
+              d="M 96.489517,713.785156 A 316.667086,316.667086 0,0 1,-258.135437,679.595459"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_89 id_91"
+              d="M 95.820244,712.480774 A 150.593281,150.593281 0,0 1,-58.446651,685.798157"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_90 id_91"
+              d="M -256.865967,662.128235 A 166.882432,166.882432 0,0 1,-80.754478,667.114563"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_92 id_149"
+              d="M -53.285347,365.713715 A 353.506888,353.506888 0,0 1,-353.809906,124.020576"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_95 id_130"
+              d="M 467.252045,186.091339 A 112.982618,112.982618 0,0 1,378.300598,262.653015"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_95 id_96"
+              d="M 473.021576,164.265900 A 118.684039,118.684039 0,0 1,566.457947,82.390350"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_105 id_149"
+              d="M -311.545929,317.761078 A 199.745132,199.745132 0,0 1,-371.289490,123.696953"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_112 id_156"
+              d="M -150.976151,-351.178925 A 208.566492,208.566492 0,0 1,-149.500427,-580.435974"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_112 id_159"
+              d="M -154.910446,-347.083618 A 289.806838,289.806838 0,0 1,-275.528656,-648.187378"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_120 id_167"
+              d="M 685.504150,5.388566 A 145.450739,145.450739 0,0 1,540.354919,-50.151283"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_127 id_143"
+              d="M 278.212036,597.690002 A 138.084457,138.084457 0,0 1,420.271118,583.349243"
+              stroke="#fffdbd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_131 id_133"
+              d="M -664.158752,-248.419098 A 246.771561,246.771561 0,0 1,-445.359070,-410.583740"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_131 id_149"
+              d="M -653.344543,-229.940811 A 374.396093,374.396093 0,0 1,-366.543030,64.776108"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_131 id_166"
+              d="M -653.677612,-228.577393 A 154.105104,154.105104 0,0 1,-551.856873,-104.890579"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_131 id_171"
+              d="M -669.465210,-249.213928 A 354.032680,354.032680 0,0 1,-441.242432,-578.583740"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_131 id_172"
+              d="M -671.947876,-248.975449 A 171.104895,171.104895 0,0 1,-595.952026,-413.607697"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_133 id_171"
+              d="M -439.455505,-421.810120 A 143.559399,143.559399 0,0 1,-436.343689,-572.112183"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_133 id_172"
+              d="M -443.577148,-404.366089 A 127.277878,127.277878 0,0 1,-574.554626,-412.409363"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_139 id_149"
+              d="M -323.878265,-272.947449 A 317.375857,317.375857 0,0 1,-342.989014,71.135284"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_147 id_149"
+              d="M -455.146118,294.807587 A 192.331281,192.331281 0,0 1,-387.012085,112.012108"
+              stroke="#b5b8ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_149 id_166"
+              d="M -391.738190,88.639626 A 220.704108,220.704108 0,0 1,-548.069580,-77.740479"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_171 id_172"
+              d="M -430.601746,-569.763184 A 188.151492,188.151492 0,0 1,-572.130310,-422.829193"
+              stroke="#dadade" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="11.545173" cx="-407.08508"
+                class="id_12" cy="-146.94687" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.0078561"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.2" cx="248.86292"
+                class="id_15" cy="469.49216" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.2" cx="-209.41838"
+                class="id_18" cy="-211.15047" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="15.376789" cx="88.46432"
+                class="id_20" cy="515.3572" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.6742241"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="10.055324" cx="-208.24554"
+                class="id_27" cy="-66.712364" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="1.748752"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="15.857088" cx="-269.25937"
+                class="id_29" cy="-480.53244" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.7577546"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="17.540033" cx="-42.159714"
+                class="id_30" cy="-734.23895" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="3.0504405"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="22.881224" cx="186.78229"
+                class="id_31" cy="-633.2487" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="3.9793432"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="17.540033" cx="517.38855"
+                class="id_32" cy="-350.82965" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="3.0504405"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.369815" cx="-727.4829"
+                class="id_33" cy="179.77364" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.151272"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="11.545173" cx="-491.015"
+                class="id_39" cy="-267.09668" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.0078561"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="17.540033" cx="602.4933"
+                class="id_42" cy="-664.1397" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="3.0504405"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="14.623478" cx="-156.54443"
+                class="id_43" cy="527.6953" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.5432134"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.717665" cx="579.6926"
+                class="id_44" cy="448.3876" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.2117677"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.2" cx="251.05527"
+                class="id_45" cy="337.51718" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="20.742779" cx="27.988363"
+                class="id_48" cy="-445.84167" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="3.6074398"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="13.586082" cx="303.52682"
+                class="id_50" cy="-348.79434" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.3627968"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.369815" cx="-544.7935"
+                class="id_51" cy="489.38727" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.151272"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="12.369815" cx="-622.27655"
+                class="id_52" cy="349.67142" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.151272"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="13.586082" cx="651.22723"
+                class="id_53" cy="-178.68459" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.3627968"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="17.540033" cx="725.40796"
+                class="id_55" cy="-419.24124" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="3.0504405"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.717665" cx="634.17017"
+                class="id_56" cy="241.29793" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.2117677"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="11.545173" cx="-562.0599"
+                class="id_71" cy="187.47119" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.0078561"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.2" cx="124.69106"
+                class="id_74" cy="350.71524" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.717665" cx="397.16458"
+                class="id_77" cy="430.11163" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.2117677"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="55.2" cx="133.57289"
+                class="id_79" cy="-14.11826" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="9.599999"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="17.540033" cx="434.50226"
+                class="id_81" cy="-542.7741" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="3.0504405"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="17.540033" cx="287.07855"
+                class="id_82" cy="-876.4548" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="3.0504405"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="16.343157" cx="-358.92554"
+                class="id_85" cy="513.5077" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.8422883"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="12.76143" cx="-152.06056"
+                class="id_86" cy="228.4556" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.2193792"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="12.369815" cx="-636.7055"
+                class="id_88" cy="36.26015" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.151272"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="13.417299" cx="109.11411"
+                class="id_89" cy="706.4836" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.3334432"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="13.417299" cx="-269.13257"
+                class="id_90" cy="670.0165" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.3334432"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="13.417299" cx="-68.953865"
+                class="id_91" cy="675.6842" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.3334432"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="15.348903" cx="-36.650894"
+                class="id_92" cy="366.99323" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.6693742"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="10.384728" cx="470.19763"
+                class="id_95" cy="175.1947" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.8060397"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.849379" cx="577.0821"
+                class="id_96" cy="81.07027" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.7129354"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.2" cx="502.5225"
+                class="id_101" cy="316.27917" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="12.587276" cx="-301.12314"
+                class="id_105" cy="326.62436" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.1890917"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="13.494845" cx="-142.5655"
+                class="id_112" cy="-339.1614" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.3469296"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="11.433856" cx="697.57336"
+                class="id_120" cy="2.423546" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="1.9884967"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.717665" cx="267.58627"
+                class="id_127" cy="606.53217" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.2117677"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="9.849379" cx="367.66815"
+                class="id_130" cy="263.9044" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.7129354"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="14.8424015" cx="-669.1685"
+                class="id_131" cy="-233.08362" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.5812871"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="11.927695" cx="-432.39893"
+                class="id_133" cy="-410.93387" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.0743816"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="10.834572" cx="458.79495"
+                class="id_138" cy="-174.68102" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="1.8842733"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.7061615" cx="-330.98108"
+                class="id_139" cy="-284.79205" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.2097673"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.717665" cx="432.4497"
+                class="id_143" cy="589.8893" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.2117677"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="11.545173" cx="-452.55814"
+                class="id_147" cy="307.08694" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.0078561"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="27.928219" cx="-362.01157"
+                class="id_149" cy="94.79275" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="4.8570814"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="10.140912" cx="-143.14287"
+                class="id_156" cy="-589.44055" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="1.763637"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="12.936474" cx="-272.22476"
+                class="id_159" cy="-661.8551" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.2498214"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.620573" cx="-550.5201"
+                class="id_166" cy="-91.237854" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.1948824"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="9.940839" cx="534.213"
+                class="id_167" cy="-59.041218" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="1.7288415"/>
+        <circle fill-opacity="1.0" fill="#fffdbd" r="12.480159" cx="-428.4724"
+                class="id_171" cy="-583.1604" stroke="#b2b184"
+                stroke-opacity="1.0" stroke-width="2.1704624"/>
+        <circle fill-opacity="1.0" fill="#b5b8ff" r="11.927695" cx="-584.8452"
+                class="id_172" cy="-420.29553" stroke="#7e80b2"
+                stroke-opacity="1.0" stroke-width="2.0743816"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="15" x="-407.08508" y="-144.2186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_12">
+            Mme. Besson
+        </text>
+        <text font-size="12" x="248.86292" y="471.67477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_15">
+            Elisabeth de Bon
+        </text>
+        <text font-size="12" x="-209.41838" y="-208.37117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_18">
+            Mlles. Bourgeois
+        </text>
+        <text font-size="20" x="88.46432" y="519.9893" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_20">
+            Jacques-Justin Bourgeois
+        </text>
+        <text font-size="13" x="-208.24554" y="-63.66126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_27">
+            Godfrey Bagnal Clarke
+        </text>
+        <text font-size="21" x="-269.25937" y="-476.6445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_29">
+            Mlle. Clarke
+        </text>
+        <text font-size="23" x="-42.159714" y="-728.9082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_30">
+            Jacques-Abram-Elie-Daniel Clavel de Brenles
+        </text>
+        <text font-size="30" x="186.78229" y="-627.6945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_31">
+            Mme. Clavel de Brenles
+        </text>
+        <text font-size="23" x="517.38855" y="-346.5714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_32">
+            Anne-Pauline Clavel de Marsens
+        </text>
+        <text font-size="16" x="-727.4829" y="182.73587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_33">
+            Juste Constant
+        </text>
+        <text font-size="15" x="-491.015" y="-264.31958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_39">
+            Catherine Crousaz
+        </text>
+        <text font-size="23" x="602.4933" y="-659.8815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_42">
+            Mlles. Crousaz de Corsier
+        </text>
+        <text font-size="19" x="-156.54443" y="531.213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_43">
+            Pierre-Louis-Etienne Crousaz de Corsier
+        </text>
+        <text font-size="17" x="579.6926" y="452.3775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_44">
+            Henri Crousaz de Mézery
+        </text>
+        <text font-size="12" x="251.05527" y="340.3336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_45">
+            Suzanne Crousaz de Mézery
+        </text>
+        <text font-size="27" x="27.988363" y="-440.8429" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_48">
+            Suzanne Curchod
+        </text>
+        <text font-size="18" x="303.52682" y="-345.52042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_50">
+            Baron d&apos;Aire
+        </text>
+        <text font-size="16" x="-544.7935" y="493.0461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_51">
+            Jean-François Dapples
+        </text>
+        <text font-size="16" x="-622.27655" y="353.33026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_52">
+            Jeanne-Elisabeth Dapples
+        </text>
+        <text font-size="18" x="651.22723" y="-174.56837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_53">
+            Marie Dapples
+        </text>
+        <text font-size="23" x="725.40796" y="-414.98303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_55">
+            Charles-Esaïe de Chandieu
+        </text>
+        <text font-size="17" x="634.17017" y="245.28784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_56">
+            Benjamin de Chandieu Villars
+        </text>
+        <text font-size="15" x="-562.0599" y="190.94531" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_71">
+            Mme. Fornerey
+        </text>
+        <text font-size="12" x="124.69106" y="353.53165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_74">
+            Marguerite Gaudard
+        </text>
+        <text font-size="17" x="397.16458" y="434.05176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_77">
+            Philippe-François Gentils
+        </text>
+        <text font-size="72" x="133.57289" y="-0.7881813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_79">
+            Edward Gibbon
+        </text>
+        <text font-size="23" x="434.50226" y="-538.51587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_81">
+            Alexandre de Golowkin
+        </text>
+        <text font-size="23" x="287.07855" y="-872.19653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_82">
+            Wilhelmine de Golowkin
+        </text>
+        <text font-size="21" x="-358.92554" y="518.4364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_85">
+            Major George Grand
+        </text>
+        <text font-size="17" x="-152.06056" y="231.60297" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_86">
+            Anne-Catherine Grand
+        </text>
+        <text font-size="16" x="-636.7055" y="39.956764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_88">
+            Françoise-Elisabeth Grand
+        </text>
+        <text font-size="18" x="109.11411" y="709.8161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_89">
+            Lisette Grand
+        </text>
+        <text font-size="18" x="-269.13257" y="673.349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_90">
+            Therese Grand
+        </text>
+        <text font-size="18" x="-68.953865" y="679.0167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_91">
+            Marianne Grand
+        </text>
+        <text font-size="20" x="-36.650894" y="370.69604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_92">
+            William Guise
+        </text>
+        <text font-size="14" x="470.19763" y="177.74109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_95">
+            Henriette-Marianne de Illens
+        </text>
+        <text font-size="13" x="577.0821" y="83.43477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_96">
+            Marianne de Illens
+        </text>
+        <text font-size="12" x="502.5225" y="319.05847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_101">
+            Marie Loys de Bochat
+        </text>
+        <text font-size="16" x="-301.12314" y="330.33008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_105">
+            Lisette Loys de Villardin
+        </text>
+        <text font-size="18" x="-142.5655" y="-335.8289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_112">
+            Mount Stuart
+        </text>
+        <text font-size="15" x="697.57336" y="5.1518173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_120">
+            Daniel Pavillard
+        </text>
+        <text font-size="17" x="267.58627" y="609.67957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_127">
+            Antoine Polier de Saint-Germain
+        </text>
+        <text font-size="13" x="367.66815" y="266.2689" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_130">
+            Mme. Portaz
+        </text>
+        <text font-size="19" x="-669.1685" y="-229.56595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_131">
+            Mme. Portaz Stetler
+        </text>
+        <text font-size="16" x="-432.39893" y="-407.97162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_133">
+            Catherine-Rose Roel
+        </text>
+        <text font-size="14" x="458.79495" y="-172.08905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_138">
+            Mme. Salchli
+        </text>
+        <text font-size="17" x="-330.98108" y="-281.64465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_139">
+            M. de Salis
+        </text>
+        <text font-size="17" x="432.4497" y="593.87915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_143">
+            Philippe-François Gentils de Saussure de Saint-Cierge
+        </text>
+        <text font-size="15" x="-452.55814" y="310.60745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_147">
+            Françoise-Charlotte de Seigneux
+        </text>
+        <text font-size="36" x="-362.01157" y="103.24197" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_149">
+            Julia de Seigneux
+        </text>
+        <text font-size="13" x="-143.14287" y="-587.0337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_156">
+            M. Shuttleworth
+        </text>
+        <text font-size="17" x="-272.22476" y="-658.70776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_159">
+            Charlotte Tissot
+        </text>
+        <text font-size="16" x="-550.5201" y="-88.27822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_166">
+            Baron de Wolf
+        </text>
+        <text font-size="13" x="534.213" y="-56.676716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_167">
+            M. Wuest
+        </text>
+        <text font-size="16" x="-428.4724" y="-579.45465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_171">
+            Jean-François Wylliamoz
+        </text>
+        <text font-size="16" x="-584.8452" y="-416.5898" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_172">
+            Mme. Wylliamoz
+        </text>
+    </g>
+</svg>
